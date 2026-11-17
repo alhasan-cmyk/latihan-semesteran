@@ -1,0 +1,766 @@
+DAFTAR PERTANYAAN GOOGLE FORM — Latihan Tes Semesteran Al-Qur'an Hadis MA Kelas XII (Bab 1–5)
+================================================================================
+Judul Form: Latihan Tes Semesteran Al-Qur'an Hadis MA Kelas XII (Bab 1-5)
+Deskripsi: Isi Nama, Kelas, dan No Absen, lalu kerjakan 50 soal HOTS. Setiap soal memuat dalil Al-Qur'an teks Arab dan terjemahan.
+================================================================================
+
+BAGIAN 1 — IDENTITAS (wajib diisi)
+- Pertanyaan 1: Nama Lengkap (Jawaban singkat, wajib)
+- Pertanyaan 2: Kelas (Jawaban singkat, wajib — contoh: XII-1)
+- Pertanyaan 3: Nomor Absen (Jawaban singkat, wajib — contoh: 07)
+
+BAGIAN 2 — SOAL (50 soal pilihan ganda, masing-masing 2 poin)
+Untuk setiap soal di bawah, buat pertanyaan pilihan ganda di Google Form dengan format:
+Judul pertanyaan = [Soal N | Bab X | Level] + Dalil Arab + Terjemahan + Stimulus + Pertanyaan
+Opsi = A–E seperti di bawah. Kunci = tandai opsi yang benar + isi poin 2.
+
+SOAL 1 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C4 Analisis
+Dalil (QS Al-Furqan (25): 67):
+وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قِوَامًا
+Terjemahan: Dan orang-orang yang apabila membelanjakan (harta), mereka tidak berlebih-lebihan, dan tidak (pula) kikir, dan adalah (pembelanjaan itu) di tengah-tengah antara yang demikian.
+Stimulus: Rina, siswi kelas XII, setiap minggu menghabiskan uang saku untuk membeli 3–4 kaus dan sepatu bermerek demi mengikuti tren media sosial, padahal buku dan fotokopi tugasnya belum terbeli. Sebaliknya, kakaknya yang sudah bekerja menahan hartanya rapat-rapat: enggan membayar zakat dan enggan membantu orang tua karena takut hartanya berkurang.
+Pertanyaan: Berdasarkan QS Al-Furqan (25): 67, analisislah sikap Rina dan kakaknya yang paling tepat!
+A. Rina dan kakaknya sama-sama bersikap qiwām karena keduanya membelanjakan harta sesuai keinginan masing-masing.
+B. Rina bersikap isrāf yang dibenarkan karena membelanjakan harta untuk kebahagiaan diri, sedangkan kakaknya bersikap qatr yang dibenarkan karena menahan harta untuk masa depan.
+C. Rina bersikap isrāf (berlebih-lebihan) dan kakaknya bersikap qatr (kikir); keduanya menyalahi sifat i'bād al-Rahmān yang qiwām (di tengah-tengah).
+D. Keduanya tidak terkait dengan ayat tersebut karena ayat hanya mengatur infak di jalan Allah, bukan belanja pribadi.
+E. Rina bersikap qatr dan kakaknya bersikap isrāf; keduanya telah memenuhi perintah Allah tentang infak.
+KUNCI: C
+Pembahasan: Isrāf artinya melampaui batas (tajāwaz al-hadd), termasuk membelanjakan harta untuk hal yang tidak perlu/maksiat. Qatr artinya meminimkan nafkah/menahan diri dari membelanjakan harta dalam ketaatan (termasuk zakat). QS Al-Furqan 25:67 memuji hamba Allah yang infaknya qiwām: tidak boros dan tidak kikir.
+--------------------------------------------------------------------------------
+
+SOAL 2 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C5 Evaluasi
+Dalil (QS Al-Furqan (25): 67):
+وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قِوَامًا
+Terjemahan: Dan orang-orang yang apabila membelanjakan (harta), mereka tidak berlebih-lebihan, dan tidak (pula) kikir, dan adalah (pembelanjaan itu) di tengah-tengah antara yang demikian.
+Stimulus: Di era digital, banyak remaja terjebak gaya hidup hedon: cicilan gawai terbaru, nongkrong mahal, dan pamer barang mewah di media sosial. Di sisi lain, ada pula yang pelit berbagi padahal mampu. Keduanya mengklaim sedang 'menghargai diri sendiri'.
+Pertanyaan: Evaluasi klaim tersebut dengan menggunakan prinsip qiwām dalam QS Al-Furqan (25): 67. Sikap yang paling sesuai dengan ayat adalah…
+A. Qiwām berarti membelanjakan harta sebanyak-banyaknya untuk diri sendiri dan sesedikit-dikitnya untuk orang lain.
+B. Qiwām berarti tidak membelanjakan harta sama sekali karena harta adalah amanah yang harus disimpan utuh.
+C. Menghargai diri berarti menuruti semua keinginan konsumtif dan menahan semua pengeluaran sosial agar tidak 'rugi'.
+D. Qiwām berarti membelanjakan harta sesuai kebutuhan dan kemampuan, tidak boros untuk kemaksiatan, tidak kikir untuk ketaatan, serta tetap memperhatikan kebutuhan diri dan keluarga.
+E. Qiwām hanya berlaku untuk infak, sehingga belanja pribadi bebas dari batas syariat.
+KUNCI: D
+Pembahasan: Batasan isrāf dan qatr adalah syariat, bukan sekadar adat atau standar hidup. Qiwām adalah moderasi: belanja sesuai keperluan, sedekah tidak sampai melupakan kebutuhan diri, dan zakat tetap dikeluarkan. Hedonisme adalah isrāf; pelit berbagi adalah qatr.
+--------------------------------------------------------------------------------
+
+SOAL 3 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C4 Analisis
+Dalil (QS Al-Isra' (17): 26–27):
+وَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا ۝ إِنَّ الْمُبَذِّرِينَ إِخْوَانُ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا
+Terjemahan: Dan berikanlah kepada keluarga-keluarga yang dekat akan haknya, kepada orang miskin dan orang yang dalam perjalanan; dan janganlah kamu menghambur-hamburkan (hartamu) secara boros. Sesungguhnya pemboros-pemboros itu adalah saudara-saudara setan dan setan itu adalah sangat ingkar kepada Tuhannya.
+Stimulus: Seorang pengusaha merayakan ulang tahun anaknya dengan pesta mewah: sewa gedung megah, artis ibukota, dan membuang makanan sisa dalam jumlah besar, sementara di sekitar rumahnya ada tetangga miskin yang kekurangan. Ia berdalih 'ini rezeki anak, harus dirayakan besar-besaran'.
+Pertanyaan: Analisislah perilaku pengusaha tersebut berdasarkan QS Al-Isra' (17): 26–27!
+A. Perilaku tersebut adalah infak yang dianjurkan karena menyenangkan anak dan kerabat.
+B. Perilaku tersebut tidak melanggar ayat karena ayat hanya melarang memberi kepada orang jauh.
+C. Perilaku tersebut termasuk qatr (kikir) karena tidak memberikan sisa makanan kepada tetangga.
+D. Perilaku tersebut dibenarkan karena rezeki yang banyak memang harus dibelanjakan sebanyak-banyaknya.
+E. Perilaku tersebut termasuk tabdzīr (pemborosan) yang disamakan dengan saudara setan, karena menghamburkan harta tanpa memberikan hak kerabat, miskin, dan ibnu sabīl.
+KUNCI: E
+Pembahasan: Ayat memerintahkan memberikan hak kepada kerabat dekat, miskin, dan ibnu sabīl, serta melarang tabdzīr. Pemboros disamakan dengan saudara setan karena setan ingkar kepada Tuhannya (kufūr). Pesta mewah yang membuang makanan dan mengabaikan duafa adalah tabdzīr.
+--------------------------------------------------------------------------------
+
+SOAL 4 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C4 Analisis
+Dalil (QS Al-Isra' (17): 29):
+وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ الْبَسْطِ فَتَقْعُدَ مَذْمُومًا مَّحْسُورًا
+Terjemahan: Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu dan janganlah kamu terlalu mengulurkannya karena itu kamu menjadi tercela dan menyesal.
+Stimulus: Pak Haji kaya raya enggan mengeluarkan zakat dan infak dengan alasan 'harta saya hasil kerja keras, tidak wajib dibagi'. Ia juga enggan membantu kerabat yang sakit. Sebaliknya, ada orang yang mengulurkan tangan terlalu jauh: berutang untuk bersedekah besar-besaran hingga keluarganya terlantar.
+Pertanyaan: Berdasarkan QS Al-Isra' (17): 29, analisislah kedua sikap tersebut!
+A. Pak Haji bersikap benar karena zakat tidak wajib bagi orang kaya; orang kedua bersikap salah karena berutang.
+B. Keduanya tidak terkait dengan ayat karena ayat hanya tentang rezeki dari Allah.
+C. Keduanya adalah sikap yang dianjurkan karena menunjukkan kedermawanan dan kehati-hatian.
+D. Pak Haji termasuk mubadzīr dan orang kedua termasuk qatr.
+E. Pak Haji menggambarkan tangan terbelenggu (kikir) yang berakibat tercela; orang kedua menggambarkan tangan terulur penuh (boros) yang berakibat menyesal. Keduanya dilarang.
+KUNCI: E
+Pembahasan: Tangan terbelenggu di leher adalah perumpamaan kikir (menahan harta); tangan terulur penuh adalah perumpamaan boros. Kikir berakibat tercela (madzmūm), boros berakibat menyesal (mahsūr). Islam memerintahkan moderasi.
+--------------------------------------------------------------------------------
+
+SOAL 5 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C4 Analisis
+Dalil (QS Al-Qashash (28): 79–82):
+فَخَرَجَ عَلَىٰ قَوْمِهِ فِي زِينَتِهِ ۖ قَالَ الَّذِينَ يُرِيدُونَ الْحَيَاةَ الدُّنْيَا يَا لَيْتَ لَنَا مِثْلَ مَا أُوتِيَ قَارُونُ ۖ إِنَّهُ لَذُو حَظٍّ عَظِيمٍ ۝ وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِّمَنْ آمَنَ وَعَمِلَ صَالِحًا وَلَا يُلَقَّاهَا إِلَّا الصَّابِرُونَ ۝ فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ
+Terjemahan: Maka keluarlah Qarun kepada kaumnya dalam kemegahannya. Berkatalah orang-orang yang menghendaki kehidupan dunia: 'Moga-moga kiranya kita mempunyai seperti apa yang telah diberikan kepada Qarun; sesungguhnya ia benar-benar mempunyai keberuntungan yang besar'. Berkatalah orang-orang yang dianugerahi ilmu: 'Kecelakaan yang besarlah bagimu, pahala Allah adalah lebih baik bagi orang-orang yang beriman dan beramal saleh, dan tidak diperoleh pahala itu kecuali oleh orang-orang yang sabar'. Maka Kami benamkanlah Qarun beserta rumahnya ke dalam bumi. Maka tidak ada baginya suatu golongan pun yang menolongnya terhadap azab Allah dan tiadalah ia termasuk orang-orang (yang dapat) membela (dirinya).
+Stimulus: Seorang pejabat korup menumpuk kekayaan, sombong dengan harta dan jabatannya, serta meremehkan nasihat ulama. Ia menganggap hartanya hasil kepintaran sendiri. Ketika tersandung kasus, tidak ada yang menolongnya dan hartanya hilang begitu cepat.
+Pertanyaan: Analisislah keterkaitan kisah Qarun dalam QS Al-Qashash (28): 79–82 dengan perilaku pejabat tersebut. Pelajaran yang paling tepat adalah…
+A. Kekayaan yang besar selalu menjadi tanda ridha Allah, sehingga pejabat tersebut pasti selamat.
+B. Kisah Qarun tidak relevan dengan pejabat modern karena Qarun hidup di zaman Nabi Musa.
+C. Kesombongan dan mengingkari karunia Allah dengan harta menyebabkan kehancuran; harta tidak dapat menolong pemiliknya dari azab Allah, sedangkan ilmu dan kesabaran menuntun pada pahala yang lebih baik.
+D. Qarun hancur karena terlalu banyak bersedekah, sehingga pelajaran bagi pejabat adalah jangan bersedekah.
+E. Orang-orang yang berilmu salah karena iri kepada Qarun; seharusnya mereka juga menginginkan harta Qarun.
+KUNCI: C
+Pembahasan: Qarun keluar dalam kemegahan (zīnah), mengklaim harta karena ilmunya, lalu dibenamkan ke bumi dan tidak ada penolong. Orang berilmu mengingatkan bahwa pahala Allah lebih baik bagi yang beriman dan beramal saleh dengan sabar. Pelajarannya: harta adalah ujian; kesombongan dan kufur nikmat berakibat kehancuran.
+--------------------------------------------------------------------------------
+
+SOAL 6 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C5 Evaluasi
+Dalil (QS Al-Baqarah (2): 177):
+لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا ۖ وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ ۗ أُولَٰئِكَ الَّذِينَ صَدَقُوا ۖ وَأُولَٰئِكَ هُمُ الْمُتَّقُونَ
+Terjemahan: Bukanlah menghadapkan wajahmu ke timur dan ke barat itu kebajikan, akan tetapi kebajikan itu ialah beriman kepada Allah, hari kemudian, malaikat-malaikat, kitab-kitab, dan nabi-nabi dan memberikan harta yang dicintainya kepada kerabat, anak-anak yatim, orang-orang miskin, orang-orang yang dalam perjalanan (ibnu sabil), orang-orang yang meminta-minta, dan untuk memerdekakan hamba sahaya, dan mendirikan salat dan menunaikan zakat, dan orang-orang yang menepati janjinya apabila ia berjanji, dan orang-orang yang sabar dalam kesempitan, penderitaan, dan dalam peperangan. Mereka itulah orang-orang yang benar (imannya) dan mereka itulah orang-orang yang bertakwa.
+Stimulus: Seorang rajin salat dan puasa, tetapi enggan memberi kepada kerabat miskin dan anak yatim dengan alasan 'yang penting salat saya rajin'. Seorang lain rajin bersedekah, tetapi salatnya berantakan dan janjinya sering diingkari.
+Pertanyaan: Evaluasi kedua orang tersebut berdasarkan QS Al-Baqarah (2): 177 tentang hakikat kebajikan (al-birr)!
+A. Al-birr hanya berarti menghadap ke timur dan barat, sehingga keduanya tidak relevan.
+B. Keduanya telah menjadi muttaqūn karena masing-masing melakukan satu kebaikan.
+C. Orang pertama sudah sempurna karena salat adalah inti kebajikan; orang kedua juga sempurna karena sedekah adalah inti kebajikan.
+D. Keduanya belum mencapai al-birr yang sempurna, karena al-birr meliputi iman, memberi harta yang dicintai kepada kerabat, yatim, miskin, ibnu sabīl, peminta, mendirikan salat, menunaikan zakat, menepati janji, dan sabar.
+E. Orang pertama lebih baik karena ibadah ritual lebih penting daripada harta; orang kedua tidak perlu salat jika sudah bersedekah.
+KUNCI: D
+Pembahasan: QS Al-Baqarah 2:177 menegaskan al-birr bukan sekadar arah kiblat, melainkan paket utuh: iman, infak kepada kerabat/yatim/miskin/ibnu sabīl/peminta, salat, zakat, menepati janji, dan sabar. Orang yang hanya menekankan satu sisi belum utuh.
+--------------------------------------------------------------------------------
+
+SOAL 7 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C4 Analisis
+Dalil (QS Al-Ma'un (107): 1–7):
+أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ ۝ فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ ۝ وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ ۝ فَوَيْلٌ لِّلْمُصَلِّينَ ۝ الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ ۝ الَّذِينَ هُمْ يُرَاءُونَ ۝ وَيَمْنَعُونَ الْمَاعُونَ
+Terjemahan: Tahukah kamu (orang) yang mendustakan agama? Itulah orang yang menghardik anak yatim, dan tidak menganjurkan memberi makan orang miskin. Maka kecelakaanlah bagi orang-orang yang salat, (yaitu) orang-orang yang lalai dari salatnya, orang-orang yang berbuat riya, dan enggan menolong dengan barang berguna.
+Stimulus: Seorang dermawan rajin salat, tetapi salatnya sering terlambat dan dikerjakan sekadarnya. Ia juga suka memamerkan sedekahnya di media sosial agar dipuji, namun enggan meminjamkan barang sederhana kepada tetangga yang membutuhkan.
+Pertanyaan: Analisislah perilaku dermawan tersebut berdasarkan QS Al-Ma'un (107): 1–7!
+A. Ia termasuk pendusta agama karena tidak menghardik anak yatim.
+B. Ia termasuk orang yang lalai dari salatnya, berbuat riya, dan enggan menolong (yamna'ūna al-mā'ūn), sehingga mendapat ancaman wail (kecelakaan) meskipun rajin salat.
+C. Ia sudah sempurna karena sedekah di media sosial adalah dakwah yang dianjurkan.
+D. Ia tidak terkait dengan surat Al-Ma'un karena surat itu hanya untuk orang yang tidak salat sama sekali.
+E. Ia termasuk orang yang bertakwa karena rajin salat dan bersedekah, tanpa perlu memperhatikan riya dan mā'ūn.
+KUNCI: B
+Pembahasan: Al-Ma'un mengecam pendusta agama yang menghardik yatim dan enggan memberi makan miskin, serta orang yang salatnya lalai (sāhūn), riya (yurā'ūn), dan enggan menolong dengan barang berguna (yamna'ūna al-mā'ūn). Ancaman wail bagi musallīn yang demikian.
+--------------------------------------------------------------------------------
+
+SOAL 8 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C4 Analisis
+Dalil (HR Ibnu Majah dan Ahmad dari Abdullah bin Amr):
+إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
+Terjemahan: Sesungguhnya Allah mencintai apabila salah seorang dari kalian mengerjakan suatu pekerjaan, maka hendaklah ia mengerjakannya dengan sebaik-baiknya. (HR Ibnu Majah dan Ahmad). Dalam konteks bab ini, hadis ini dikutip untuk larangan berlebih-lebihan (isrāf) bahkan dalam wudu: Rasulullah saw. bersabda kepada Sa'd yang berwudu berlebihan, 'Janganlah berlebih-lebihan. Sesungguhnya itu termasuk perbuatan setan.' Sa'd berkata, 'Apakah dalam berwudu ada yang dianggap berlebih-lebihan?' Beliau menjawab, 'Ya, meskipun kamu berada di atas sungai yang mengalir.' (HR Ibnu Majah)
+Stimulus: Seorang siswa berwudu dengan air mengalir deras hingga terbuang banyak, dan di rumahnya juga membiarkan keran terbuka saat menyikat gigi. Ia berdalih 'air banyak, tidak apa-apa boros sedikit'.
+Pertanyaan: Analisislah perilaku siswa tersebut berdasarkan hadis larangan berlebih-lebihan (isrāf) dalam wudu!
+A. Perilaku tersebut termasuk qatr karena terlalu hemat air.
+B. Perilaku tersebut dibenarkan karena wudu yang banyak airnya lebih suci.
+C. Perilaku tersebut termasuk isrāf yang dilarang, karena isrāf haram bahkan dalam ibadah wudu, apalagi dalam hal mubah seperti menyikat gigi; kesederhanaan harus ditegakkan dalam semua amal.
+D. Larangan isrāf hanya berlaku untuk makanan, tidak untuk air.
+E. Hadis tersebut tidak relevan karena wudu tidak berkaitan dengan pola hidup sederhana.
+KUNCI: C
+Pembahasan: Hadis menegaskan isrāf dilarang bahkan dalam wudu, meskipun di atas sungai yang mengalir. Jika dalam ibadah saja tidak boleh boros, apalagi dalam hal mubah. Ini menunjukkan kesederhanaan adalah prinsip menyeluruh.
+--------------------------------------------------------------------------------
+
+SOAL 9 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C5 Evaluasi
+Dalil (HR Bukhari dari Hakim bin Hizam):
+الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَىٰ فَابْدَأْ بِمَنْ تَعُولُ وَخَيْرُ الصَّدَقَةِ مَا كَانَ عَنْ ظَهْرِ غِنًى وَمَنْ يَسْتَعْفِفْ يُعِفُّهُ اللَّهُ وَمَنْ يَسْتَغْنِ يُغْنِهِ اللَّهُ
+Terjemahan: Tangan yang di atas lebih baik dari tangan yang di bawah, maka mulailah dengan orang-orang yang menjadi tanggunganmu. Sebaik-baik sedekah adalah dari orang yang sudah cukup (untuk kebutuhan dirinya). Maka siapa yang berusaha menjaga dirinya, Allah akan menjaganya dan siapa yang merasa cukup untuk dirinya maka Allah akan mencukupkannya. (HR Bukhari)
+Stimulus: Di sebuah kota, banyak pengemis menjadikan mengemis sebagai profesi karena penghasilannya lebih besar dari PNS. Pemerintah daerah menerbitkan perda melarang memberi kepada pengemis untuk memutus budaya malas. Sebagian warga protes karena merasa dilarang beramal.
+Pertanyaan: Evaluasi perdebatan perda tersebut berdasarkan HR Bukhari tentang keutamaan memberi daripada menerima!
+A. Hadis memuliakan tangan di atas (pemberi) dan menganjurkan 'iffah (menjaga diri dari meminta) serta qana'ah (merasa cukup); perda dapat dipahami sebagai upaya mencegah budaya meminta, tetapi larangan memberi harus dibarengi solusi menyantuni duafa yang benar-benar membutuhkan agar tidak menzalimi mereka.
+B. Hadis tidak relevan dengan pengemis karena hanya tentang keluarga.
+C. Orang yang meminta-minta lebih mulia daripada orang yang memberi karena tangan di bawah lebih baik.
+D. Hadis memerintahkan semua orang menjadi pengemis agar pahala pemberi bertambah.
+E. Perda melanggar hadis karena hadis memerintahkan memberi kepada siapa pun tanpa syarat.
+KUNCI: A
+Pembahasan: Hadis memuliakan pemberi, memerintahkan mendahulukan tanggungan, dan menjanjikan kecukupan bagi yang menjaga diri ('iffah) dan merasa cukup (qana'ah). Budaya mengemis sebagai profesi bertentangan dengan semangat hadis. Perda perlu dievaluasi: mencegah kemalasan tanpa menutup pintu sedekah bagi yang benar-benar berhak.
+--------------------------------------------------------------------------------
+
+SOAL 10 | Bab 1: Membudayakan Pola Hidup Sederhana dan Menyantuni Duafa | C4 Analisis
+Dalil (HR Tirmidzi, Ibnu Majah, dan Muslim dari Miqdad bin Ma'dikarib):
+بِحَسْبِ ابْنِ آدَمَ أُكَيْلَاتٌ يُقِمْنَ صُلْبَهُ فَإِنْ كَانَ لَا مَحَالَةَ فَثُلُثٌ لِطَعَامِهِ وَثُلُثٌ لِشَرَابِهِ وَثُلُثٌ لِنَفَسِهِ
+Terjemahan: Cukuplah bagi anak Adam beberapa suap makanan yang dapat menegakkan tulang punggungnya. Dan seandainya ia tidak mampu berbuat seperti itu, maka sepertiga untuk makanan, sepertiga untuk minuman dan sepertiganya lagi untuk napasnya. (HR Tirmidzi, Ibnu Majah, dan Muslim)
+Stimulus: Seorang siswa setiap hari makan melebihi porsi, minum es teh berlebih, dan sering sakit maag serta mengantuk di kelas. Ia juga membuang makanan sisa. Di sisi lain, temannya makan secukupnya, sehat, dan fokus belajar.
+Pertanyaan: Analisislah kebiasaan makan siswa tersebut berdasarkan hadis proporsi sepertiga (makanan, minuman, napas)!
+A. Hadis tersebut tidak berkaitan dengan kesehatan, hanya tentang ibadah.
+B. Kebiasaan tersebut dibenarkan karena makan banyak memberi tenaga lebih.
+C. Kebiasaan tersebut termasuk qatr karena terlalu banyak makan.
+D. Hadis hanya berlaku untuk orang dewasa, tidak untuk siswa.
+E. Kebiasaan siswa tersebut melanggar prinsip kesederhanaan dan keseimbangan: perut yang penuh melebihi sepertiga merugikan kesehatan dan menyebabkan pemborosan; pola sepertiga menjaga tubuh sehat untuk ibadah dan belajar.
+KUNCI: E
+Pembahasan: Hadis mengajarkan proporsi sepertiga: makanan, minuman, napas. Kelebihan makan berbahaya bagi tubuh dan merupakan bentuk isrāf. Kesederhanaan dalam makan menjaga kesehatan, konsentrasi belajar, dan menghindari pemborosan.
+--------------------------------------------------------------------------------
+
+SOAL 11 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C4 Analisis
+Dalil (QS Al-Baqarah (2): 155–157):
+وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ ۝ الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ ۝ أُولَٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُولَٰئِكَ هُمُ الْمُهْتَدُونَ
+Terjemahan: Dan sungguh akan Kami berikan cobaan kepadamu, dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa dan buah-buahan. Dan berikanlah berita gembira kepada orang-orang yang sabar. (yaitu) orang-orang yang apabila ditimpa musibah, mereka mengucapkan, 'Innaa lillaahi wa innaa ilaihi raaji'uun'. Mereka itulah yang mendapat keberkatan yang sempurna dan rahmat dari Tuhan mereka, dan mereka itulah orang-orang yang mendapat petunjuk.
+Stimulus: Sebuah desa dilanda gagal panen, kenaikan harga, dan ketakutan karena konflik. Sebagian warga mengeluh dan menyalahkan Tuhan, sebagian lain tetap tenang, beristirja', dan bahu-membahu membantu tetangga.
+Pertanyaan: Analisislah respons kedua kelompok warga tersebut berdasarkan QS Al-Baqarah (2): 155–157 tentang macam-macam ujian!
+A. Keduanya tidak terkait dengan ayat karena ayat hanya untuk orang yang ditimpa musibah besar.
+B. Kelompok pertama benar karena mengeluh adalah cara terbaik menghadapi ujian.
+C. Kelompok pertama gagal menyikapi ujian (khawf, jū', naqsh al-amwāl, al-anfus, al-tsamarāt); kelompok kedua menunjukkan kesabaran dengan istirja' sehingga mendapat salawat, rahmat, dan petunjuk dari Allah.
+D. Kelompok kedua salah karena istirja' berarti pasrah tanpa usaha.
+E. Ujian dalam ayat hanya berupa kelaparan, sehingga gagal panen tidak termasuk ujian.
+KUNCI: C
+Pembahasan: Ayat menyebut lima ujian: ketakutan, kelaparan, kekurangan harta, jiwa, dan buah-buahan. Orang sabar mengucapkan istirja' dan mendapat keberkatan, rahmat, dan petunjuk. Berpikir positif berarti meyakini ujian adalah sunnatullah untuk menguatkan mental dan keyakinan.
+--------------------------------------------------------------------------------
+
+SOAL 12 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C4 Analisis
+Dalil (QS Al-Baqarah (2): 156):
+الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ
+Terjemahan: (yaitu) orang-orang yang apabila ditimpa musibah, mereka mengucapkan, 'Innaa lillaahi wa innaa ilaihi raaji'uun' (Sesungguhnya kami adalah milik Allah dan sesungguhnya kami akan kembali kepada-Nya).
+Stimulus: Ketika mendengar kabar gempa yang menewaskan kerabatnya, Dina langsung mengucapkan istirja', lalu segera menghubungi keluarga, membantu evakuasi, dan mendoakan para korban. Temannya, Sari, langsung histeris, menyalahkan takdir, dan mengurung diri tanpa membantu siapa pun.
+Pertanyaan: Analisislah perbedaan respons Dina dan Sari berdasarkan QS Al-Baqarah (2): 156!
+A. Dina salah karena istirja' berarti menyerah tanpa usaha.
+B. Istirja' hanya diucapkan untuk musibah kecil, bukan untuk kematian.
+C. Sari lebih benar karena istirja' tidak boleh diucapkan saat berduka.
+D. Keduanya sama-sama sabar karena sama-sama merasakan duka.
+E. Dina menunjukkan sikap sabar yang benar: istirja' sebagai pengakuan milik Allah dan kembali kepada-Nya, disertai tindakan nyata; Sari menunjukkan sikap putus asa yang bertentangan dengan kesabaran.
+KUNCI: E
+Pembahasan: Istirja' adalah kalimat thayyibah orang sabar saat musibah: pengakuan bahwa semua milik Allah dan akan kembali kepada-Nya. Kesabaran bukan pasif, melainkan tetap beramal dan membantu. Putus asa dan menyalahkan takdir adalah lawan kesabaran.
+--------------------------------------------------------------------------------
+
+SOAL 13 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C4 Analisis
+Dalil (QS Ali Imran (3): 186):
+لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ ۖ وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ وَمِنَ الَّذِينَ أَشْرَكُوا أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
+Terjemahan: Kamu sungguh-sungguh akan diuji terhadap hartamu dan dirimu. Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi Kitab sebelum kamu dan dari orang-orang yang mempersekutukan Allah, gangguan yang banyak yang menyakitkan hati. Jika kamu bersabar dan bertakwa, maka sesungguhnya yang demikian itu termasuk urusan yang patut diutamakan.
+Stimulus: Seorang santri hafiz Al-Qur'an diejek dan difitnah di media sosial oleh kelompok yang membenci Islam. Hartanya juga diuji: orang tuanya kehilangan pekerjaan. Ia memilih sabar, tetap belajar, dan tidak membalas fitnah dengan fitnah.
+Pertanyaan: Analisislah ujian yang dialami santri tersebut berdasarkan QS Ali Imran (3): 186!
+A. Ujian harta tidak termasuk dalam ayat karena ayat hanya tentang ejekan.
+B. Santri tersebut mengalami ujian harta (kehilangan pekerjaan orang tua) dan ujian diri (ejekan/fitnah yang menyakitkan hati); kesabarannya adalah 'azm al-umūr (urusan yang patut diutamakan) yang dijanjikan pahala.
+C. Santri tersebut tidak diuji karena ujian hanya berupa perang fisik.
+D. Santri tersebut harus membalas fitnah dengan fitnah agar setimpal.
+E. Kesabaran santri tersebut adalah kelemahan yang harus ditinggalkan.
+KUNCI: B
+Pembahasan: Ayat menegaskan keniscayaan ujian pada harta dan diri, termasuk gangguan menyakitkan dari Ahlul Kitab dan musyrik. Sabar dan takwa adalah 'azm al-umūr. Balasan bagi yang sabar adalah martabat tinggi di surga (QS Al-Furqan 25:75–76).
+--------------------------------------------------------------------------------
+
+SOAL 14 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C5 Evaluasi
+Dalil (QS Ali Imran (3): 186):
+لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ ۖ وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ وَمِنَ الَّذِينَ أَشْرَكُوا أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
+Terjemahan: Kamu sungguh-sungguh akan diuji terhadap hartamu dan dirimu. Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi Kitab sebelum kamu dan dari orang-orang yang mempersekutukan Allah, gangguan yang banyak yang menyakitkan hati. Jika kamu bersabar dan bertakwa, maka sesungguhnya yang demikian itu termasuk urusan yang patut diutamakan.
+Stimulus: Dua siswa diejek karena keteguhan agamanya. Andi membalas dengan makian dan perkelahian. Budi memilih diam, berdoa, melaporkan perundungan kepada guru, dan tetap berprestasi. Keduanya mengklaim sedang 'membela agama'.
+Pertanyaan: Evaluasi klaim keduanya berdasarkan QS Ali Imran (3): 186!
+A. Keduanya salah karena seharusnya tidak melaporkan kepada guru.
+B. Budi lebih sesuai dengan ayat: sabar dan takwa adalah cara menghadapi adzan (gangguan) yang patut diutamakan; Andi bertentangan karena membalas gangguan dengan perkelahian yang melanggar takwa.
+C. Keduanya sama-sama benar karena membela agama adalah kewajiban mutlak.
+D. Ayat tidak mengatur cara menghadapi ejekan, sehingga bebas memilih.
+E. Andi lebih sesuai karena membela agama harus dengan kekerasan.
+KUNCI: B
+Pembahasan: Ayat memerintahkan sabar dan takwa saat mendengar gangguan menyakitkan. Sabar bukan berarti diam tanpa usaha: melaporkan perundungan adalah ikhtiar yang sah. Membalas dengan perkelahian melanggar takwa dan merusak akhlak.
+--------------------------------------------------------------------------------
+
+SOAL 15 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C4 Analisis
+Dalil (HR Muslim dari Suhaib):
+عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ
+Terjemahan: Perkara orang mukmin mengagumkan, sesungguhnya semua perihalnya baik dan itu tidak dimiliki seorang pun selain orang mukmin, bila tertimpa kesenangan, ia bersyukur dan syukur itu baik baginya dan bila tertimpa musibah, ia bersabar dan sabar itu baik baginya. (HR Muslim)
+Stimulus: Lulus ujian dengan nilai tertinggi, Maya bersyukur dengan sujud syukur, berbagi kebahagiaan dengan teman, dan semakin rajin belajar. Ia tidak sombong dan tidak meremehkan teman yang belum lulus.
+Pertanyaan: Analisislah sikap Maya berdasarkan HR Muslim tentang sikap mukmin saat mendapat kesenangan (sarrā')!
+A. Hadis tersebut tidak berlaku untuk prestasi belajar.
+B. Syukur hanya berupa ucapan lisan, tidak perlu berbagi.
+C. Maya menunjukkan syukur yang benar: pujian kepada Allah, rida dengan kebaikan, dan berbagi kesenangan dengan orang lain; syukur tersebut menjadi kebaikan baginya.
+D. Maya salah karena seharusnya menyembunyikan kebahagiaan dari teman.
+E. Maya menunjukkan kesombongan karena merayakan kelulusan.
+KUNCI: C
+Pembahasan: Hadis menegaskan semua urusan mukmin adalah baik: saat senang bersyukur, saat susah bersabar. Syukur meliputi pujian, rida, dan berbagi. Keistimewaan ini hanya dimiliki mukmin.
+--------------------------------------------------------------------------------
+
+SOAL 16 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C4 Analisis
+Dalil (HR Muslim dari Suhaib):
+عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ
+Terjemahan: Perkara orang mukmin mengagumkan, sesungguhnya semua perihalnya baik dan itu tidak dimiliki seorang pun selain orang mukmin, bila tertimpa kesenangan, ia bersyukur dan syukur itu baik baginya dan bila tertimpa musibah, ia bersabar dan sabar itu baik baginya. (HR Muslim)
+Stimulus: Dua siswa tidak lulus ujian. Fajar tetap belajar, berdoa, dan meyakini ujian adalah bagian dari takdir yang masih dalam batas kemampuan. Rizki berhenti belajar, menyalahkan guru, dan berputus asa hingga mengingkari Tuhan.
+Pertanyaan: Analisislah perbedaan sikap Fajar dan Rizki berdasarkan HR Muslim tentang sikap mukmin saat tertimpa kesusahan (darrā')!
+A. Rizki lebih benar karena menyalahkan guru adalah cara meluapkan emosi yang sehat.
+B. Fajar salah karena sabar berarti pasrah tanpa belajar lagi.
+C. Fajar menunjukkan sabar yang menjadikan musibah sebagai kebaikan; Rizki menunjukkan putus asa dan ingkar yang bertentangan dengan keistimewaan mukmin.
+D. Hadis tersebut tidak mengatur sikap saat gagal ujian.
+E. Keduanya sama-sama baik karena sama-sama merasakan kecewa.
+KUNCI: C
+Pembahasan: Allah tidak menguji melebihi kemampuan manusia. Mukmin yang sabar menjadikan musibah sebagai kebaikan (penggugur dosa, peninggi derajat). Putus asa dan ingkar adalah lawan sabar.
+--------------------------------------------------------------------------------
+
+SOAL 17 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C4 Analisis
+Dalil (HR Tirmidzi dari Mus'ab bin Sa'd):
+يُبْتَلَى الْمَرْءُ عَلَى حَسَبِ دِينِهِ فَإِنْ كَانَ فِي دِينِهِ صُلْبًا اشْتَدَّ بَلَاؤُهُ وَإِنْ كَانَ فِي دِينِهِ رِقَّةٌ هَانَ عَلَيْهِ الْبَلَاءُ وَمَا يَبْرَحُ الْبَلَاءُ بِالْعَبْدِ حَتَّى يَتْرُكَهُ يَمْشِي عَلَى الْأَرْضِ مَا عَلَيْهِ خَطِيئَةٌ
+Terjemahan: Seseorang akan diuji sesuai dengan kondisi agamanya. Apabila agamanya begitu kuat (kokoh), maka semakin berat pula ujiannya. Apabila agamanya lemah, maka ia akan diuji sesuai dengan kualitas agamanya. Seorang hamba senantiasa akan mendapat cobaan hingga ia berjalan di atas bumi tanpa dosa. (HR Tirmidzi)
+Stimulus: Seorang ustazah yang sangat taat dan sabar justru diuji dengan penyakit berat dan fitnah berat. Seorang lain yang ibadahnya longgar hanya diuji dengan hal ringan. Keduanya bertanya: 'Mengapa yang taat justru diuji lebih berat?'
+Pertanyaan: Analisislah fenomena tersebut berdasarkan HR Tirmidzi tentang cobaan bagi mukmin!
+A. Fenomena tersebut membuktikan Allah tidak adil kepada orang taat.
+B. Fenomena tersebut membuktikan orang taat lebih banyak dosanya sehingga diuji berat.
+C. Ujian tidak berkaitan dengan kekuatan agama, melainkan kebetulan.
+D. Fenomena tersebut sesuai hadis: semakin kokoh agama seseorang, semakin berat ujiannya; ujian berat adalah cara Allah menyucikan jiwa, mengampuni dosa, dan meninggikan derajat hingga berjalan tanpa dosa.
+E. Orang yang ibadahnya longgar pasti tidak diuji sama sekali.
+KUNCI: D
+Pembahasan: Hadis menegaskan ujian sebanding dengan kualitas agama; para Nabi adalah yang paling berat ujiannya. Bala' dapat menjadi pengampun dosa dan peninggi derajat (QS Ali Imran 3:154). Ujian berat bukan tanda murka, melainkan kasih sayang yang menyucikan.
+--------------------------------------------------------------------------------
+
+SOAL 18 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C5 Evaluasi
+Dalil (QS Al-Baqarah (2): 155):
+وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ
+Terjemahan: Dan sungguh akan Kami berikan cobaan kepadamu, dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa dan buah-buahan. Dan berikanlah berita gembira kepada orang-orang yang sabar.
+Stimulus: Seorang siswa menganggap semua musibah adalah azab karena dosa, semua kesenangan adalah bukti kasih Allah, dan semua bencana yang menimpa orang lain adalah fitnah yang tidak perlu dipedulikan. Ia tidak pernah beristirja' dan tidak pernah bersyukur.
+Pertanyaan: Evaluasi pemahaman siswa tersebut berdasarkan penjelasan istilah musibah, balā', dan fitnah dalam materi Bab 2!
+A. Pemahamannya benar karena semua musibah pasti azab dan semua kesenangan pasti kasih Allah.
+B. Pemahamannya benar karena bencana orang lain tidak perlu dipedulikan.
+C. Istilah musibah, balā', dan fitnah tidak ada dalam Al-Qur'an.
+D. Pemahamannya keliru: musibah tidak selalu karena dosa (bisa karena izin Allah dan ulah manusia), balā' bisa berupa nikmat maupun derita sebagai ujian, dan fitnah adalah ujian/siksaan yang dampaknya bisa mengenai orang tidak bersalah sehingga harus disikapi dengan sabar dan syukur.
+E. Pemahamannya benar karena istirja' dan syukur tidak wajib.
+KUNCI: D
+Pembahasan: Musibah: sesuatu tidak menyenangkan yang menimpa (bisa karena ulah sendiri QS Asy-Syura 42:30, tetapi terjadi atas izin Allah). Balā': ujian langsung dari Allah yang bisa menyenangkan (QS Al-Anbiya 21:35) atau tidak menyenangkan; nikmat bukan bukti kasih dan derita bukan bukti murka (QS Al-Fajr 89:15–17). Fitnah: ujian/siksaan, bisa berdampak pada orang tidak bersalah.
+--------------------------------------------------------------------------------
+
+SOAL 19 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C6 Mencipta
+Dalil (QS Al-Baqarah (2): 155–157):
+وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ ۝ الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ
+Terjemahan: Dan sungguh akan Kami berikan cobaan kepadamu, dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa dan buah-buahan. Dan berikanlah berita gembira kepada orang-orang yang sabar. (yaitu) orang-orang yang apabila ditimpa musibah, mereka mengucapkan, 'Innaa lillaahi wa innaa ilaihi raaji'uun'.
+Stimulus: Setelah banjir melanda, banyak warga trauma dan putus asa. OSIS kelas XII ingin membuat program 'Sekolah Tangguh' untuk menumbuhkan berpikir positif dan sabar di kalangan siswa terdampak.
+Pertanyaan: Sebagai ketua OSIS, rancangan program yang paling sesuai dengan QS Al-Baqarah (2): 155–157 adalah…
+A. Program mengajak siswa mengingkari Tuhan karena ujian tidak adil.
+B. Program pendampingan psikologis, pembiasaan istirja' dan doa, gotong royong pemulihan, serta motivasi optimis bahwa ujian menguatkan mental dan keyakinan, disertai ikhtiar mitigasi bencana.
+C. Program hanya berupa lomba kemewahan tanpa nilai sabar.
+D. Program mengajak siswa mengurung diri dan tidak belajar.
+E. Program menyalahkan pemerintah dan menyebarkan hoaks agar warga marah.
+KUNCI: B
+Pembahasan: Berpikir positif dan sabar meliputi istirja', doa, gotong royong, optimisme, dan ikhtiar nyata. Ujian bertujuan membentuk umat yang kuat mentalnya, kokoh keyakinannya, dan tabah. Program harus mengamalkan optimis dan sabar dalam kehidupan sehari-hari.
+--------------------------------------------------------------------------------
+
+SOAL 20 | Bab 2: Berpikir Positif dan Sabar dalam Menghadapi Ujian dan Cobaan | C5 Evaluasi
+Dalil (QS Ali Imran (3): 186):
+لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ ۖ وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ وَمِنَ الَّذِينَ أَشْرَكُوا أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
+Terjemahan: Kamu sungguh-sungguh akan diuji terhadap hartamu dan dirimu. Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi Kitab sebelum kamu dan dari orang-orang yang mempersekutukan Allah, gangguan yang banyak yang menyakitkan hati. Jika kamu bersabar dan bertakwa, maka sesungguhnya yang demikian itu termasuk urusan yang patut diutamakan.
+Stimulus: Seorang siswa menderita penyakit kronis yang mengharuskannya bolak-balik rumah sakit. Ia tetap salat, tetap belajar dari tempat tidur, dan menguatkan teman yang juga sakit. Ia berkata, 'Allah tidak akan menguji melebihi kemampuan.'
+Pertanyaan: Evaluasi sikap siswa tersebut berdasarkan QS Ali Imran (3): 186 dan hadis tentang ujian!
+A. Sikap tersebut membuktikan penyakit adalah azab yang tidak bisa dihindari.
+B. Sikap tersebut salah karena orang sakit tidak wajib salat dan belajar.
+C. Sikap tersebut tidak terkait dengan ayat karena ayat hanya tentang ejekan.
+D. Sikap tersebut adalah sabar dan takwa yang patut diutamakan: meyakini ujian sesuai kemampuan, tetap beramal dan menguatkan sesama, sehingga ujian menjadi kebaikan dan peninggi derajat.
+E. Sikap tersebut adalah putus asa karena tidak mengeluh.
+KUNCI: D
+Pembahasan: Ujian pada diri bisa berupa sakit fisik. Sabar dan takwa adalah 'azm al-umūr. Mukmin yang sabar menjadikan musibah sebagai kebaikan (HR Muslim). Keyakinan bahwa Allah tidak menguji melebihi kemampuan adalah inti berpikir positif.
+--------------------------------------------------------------------------------
+
+SOAL 21 | Bab 3: Menjaga Kelestarian Lingkungan | C4 Analisis
+Dalil (QS Ar-Rum (30): 41–42):
+ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ ۝ قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ ۚ كَانَ أَكْثَرَهُم مُّشْرِكِينَ
+Terjemahan: Telah tampak kerusakan di darat dan di laut disebabkan karena perbuatan tangan manusia; Allah menghendaki agar mereka merasakan sebagian dari (akibat) perbuatan mereka, agar mereka kembali (ke jalan yang benar). Katakanlah: 'Berjalanlah di muka bumi dan perhatikanlah bagaimana kesudahan orang-orang yang sebelum kita. Kebanyakan mereka adalah orang-orang yang mempersekutukan (Allah).'
+Stimulus: Sungai di sebuah kota tercemar limbah pabrik, ikan mati, dan banjir sering terjadi karena sampah menumpuk. Warga mengeluh air keruh dan penyakit kulit, tetapi pabrik tetap membuang limbah dan warga tetap membuang sampah ke sungai.
+Pertanyaan: Analisislah kerusakan tersebut berdasarkan QS Ar-Rum (30): 41–42!
+A. Kerusakan tersebut harus dibiarkan karena merupakan sunnatullah yang tidak bisa diubah.
+B. Kerusakan tersebut murni takdir tanpa keterlibatan manusia.
+C. Kerusakan (fasād) di darat dan laut disebabkan perbuatan tangan manusia (bimā kasabat aydī al-nās); Allah menimpakan sebagian akibat agar manusia kembali ke jalan benar.
+D. Ayat tersebut tidak berkaitan dengan lingkungan karena hanya tentang kemusyrikan.
+E. Kerusakan tersebut adalah azab bagi orang yang tidak bersalah saja.
+KUNCI: C
+Pembahasan: QS Ar-Rum 41 menegaskan fasād di darat dan laut adalah akibat perbuatan manusia. Tujuan peringatan adalah agar manusia kembali (yarji'ūn). Kerusakan alam adalah cermin kerusakan moral (kemusyrikan dan maksiat).
+--------------------------------------------------------------------------------
+
+SOAL 22 | Bab 3: Menjaga Kelestarian Lingkungan | C6 Mencipta
+Dalil (QS Ar-Rum (30): 41):
+ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
+Terjemahan: Telah tampak kerusakan di darat dan di laut disebabkan karena perbuatan tangan manusia; Allah menghendaki agar mereka merasakan sebagian dari (akibat) perbuatan mereka, agar mereka kembali (ke jalan yang benar).
+Stimulus: Kelas XII ingin membuat proyek 'Kembali Hijau' untuk memulihkan sungai tercemar: menanam pohon, mengolah sampah, dan mengedukasi warga agar berhenti membuang limbah.
+Pertanyaan: Rancangan proyek yang paling sesuai dengan QS Ar-Rum (30): 41 adalah…
+A. Proyek membiarkan sungai tercemar dan hanya mengeluh di media sosial.
+B. Proyek menyalahkan sungai karena banjir tanpa memperbaiki perilaku.
+C. Proyek mengadakan pesta mewah di tepi sungai tercemar.
+D. Proyek menebang pohon untuk membangun fasilitas mewah.
+E. Proyek taubat ekologis: menghentikan perbuatan merusak (limbah dan sampah), memulihkan alam (reboisasi dan bersih sungai), dan mengajak warga kembali ke perilaku bertanggung jawab agar fasād tidak berlanjut.
+KUNCI: E
+Pembahasan: Ayat mengajak manusia kembali (yarji'ūn) setelah merasakan akibat perbuatan mereka. Taubat ekologis meliputi berhenti merusak, memulihkan, dan mengedukasi. Ini adalah pengamalan peduli lingkungan.
+--------------------------------------------------------------------------------
+
+SOAL 23 | Bab 3: Menjaga Kelestarian Lingkungan | C4 Analisis
+Dalil (QS Al-A'raf (7): 56–58):
+وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ ۝ وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ ۖ حَتَّىٰ إِذَا أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَاهُ لِبَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ تُخْرَجُونَ ۝ وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ ۖ وَالَّذِي خَبُثَ لَا يُخْرِجُ إِلَّا نَكِدًا ۚ كَذَٰلِكَ نُصَرِّفُ الْآيَاتِ لِقَوْمٍ يَشْكُرُونَ
+Terjemahan: Dan janganlah kamu membuat kerusakan di muka bumi, sesudah (Allah) memperbaikinya dan berdoalah kepada-Nya dengan rasa takut (tidak akan diterima) dan harapan (akan dikabulkan). Sesungguhnya rahmat Allah amat dekat kepada orang-orang yang berbuat baik. Dan Dialah yang meniupkan angin sebagai pembawa berita gembira sebelum kedatangan rahmat-Nya (hujan), hingga apabila angin itu telah membawa awan mendung, Kami halau awan itu ke suatu daerah yang tandus, lalu Kami turunkanlah hujan di daerah itu, maka Kami hidupkanlah dengan hujan itu bumi sesudah matinya; demikianlah kamu dibangkitkan. Dan tanah yang baik, tanaman-tanamannya keluar dengan izin Tuhannya; dan tanah yang tidak subur, tanaman-tanamannya hanya keluar dalam keadaan yang tidak subur. Demikianlah Kami mengemukakan tanda-tanda kebesaran Kami kepada orang-orang yang bersyukur.
+Stimulus: Sebuah perusahaan melakukan illegal logging (penebangan liar) di hutan, membakar lahan, dan menggunakan pupuk kimia berlebihan. Akibatnya tanah menjadi tandus, air keruh, dan hasil panen menurun. Perusahaan berdalih 'demi keuntungan dan lapangan kerja'.
+Pertanyaan: Analisislah perbuatan perusahaan tersebut berdasarkan QS Al-A'raf (7): 56–58!
+A. Perbuatan tersebut adalah fasād (kerusakan) yang dilarang setelah Allah memperbaikinya; tanah yang dirusak (khabuts) hanya menghasilkan tanaman tidak subur (nakid), sesuai sunnatullah dalam ayat.
+B. Perbuatan tersebut dibenarkan karena keuntungan perusahaan adalah rahmat Allah.
+C. Perbuatan tersebut tidak melanggar ayat karena ayat hanya tentang doa.
+D. Perbuatan tersebut termasuk ihsān karena membuka lapangan kerja.
+E. Tanah tandus tidak berkaitan dengan perbuatan manusia.
+KUNCI: A
+Pembahasan: Ayat melarang fasād setelah islāh (perbaikan) Allah. Angin, awan, hujan menghidupkan bumi mati; tanah baik menghasilkan tanaman baik dengan izin Allah, tanah buruk hanya menghasilkan yang tidak subur. Illegal logging, pembakaran, dan pupuk berlebihan adalah fasād.
+--------------------------------------------------------------------------------
+
+SOAL 24 | Bab 3: Menjaga Kelestarian Lingkungan | C4 Analisis
+Dalil (QS Al-A'raf (7): 57–58):
+وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ ۖ حَتَّىٰ إِذَا أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَاهُ لِبَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ تُخْرَجُونَ ۝ وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ ۖ وَالَّذِي خَبُثَ لَا يُخْرِجُ إِلَّا نَكِدًا
+Terjemahan: Dan Dialah yang meniupkan angin sebagai pembawa berita gembira sebelum kedatangan rahmat-Nya (hujan), hingga apabila angin itu telah membawa awan mendung, Kami halau awan itu ke suatu daerah yang tandus, lalu Kami turunkanlah hujan di daerah itu, maka Kami hidupkanlah dengan hujan itu bumi sesudah matinya; demikianlah kamu dibangkitkan. Dan tanah yang baik, tanaman-tanamannya keluar dengan izin Tuhannya; dan tanah yang tidak subur, tanaman-tanamannya hanya keluar dalam keadaan yang tidak subur.
+Stimulus: Dua lahan pertanian: Lahan A dikelola dengan kompos, rotasi tanaman, dan menjaga mata air; hasilnya subur dan melimpah. Lahan B dipaksa dengan pupuk kimia berlebihan dan dibakar; hasilnya kerdil dan tanah mengeras.
+Pertanyaan: Analisislah perbedaan kedua lahan tersebut berdasarkan QS Al-A'raf (7): 57–58!
+A. Lahan A adalah balad tayyib yang menghasilkan tanaman baik dengan izin Allah; Lahan B adalah balad khabuts yang hanya menghasilkan tanaman tidak subur karena dirusak manusia.
+B. Lahan A subur karena kebetulan, bukan karena izin Allah.
+C. Ayat tersebut tidak berkaitan dengan pertanian.
+D. Lahan B lebih baik karena pupuk kimia selalu menyuburkan.
+E. Keduanya sama karena kesuburan tidak bergantung pada pengelolaan.
+KUNCI: A
+Pembahasan: Ayat membedakan tanah baik (tayyib) dan tanah buruk (khabuts). Pengelolaan yang menjaga keseimbangan adalah ihsān; perusakan adalah fasād. Syukur kepada Allah diwujudkan dengan menjaga amanah bumi.
+--------------------------------------------------------------------------------
+
+SOAL 25 | Bab 3: Menjaga Kelestarian Lingkungan | C5 Evaluasi
+Dalil (QS Shad (38): 27):
+وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُوا ۖ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِنَ النَّارِ
+Terjemahan: Dan Kami tidak menciptakan langit dan bumi dan apa yang ada di antara keduanya tanpa hikmah. Yang demikian itu adalah anggapan orang-orang kafir, maka kecelakaanlah bagi orang-orang kafir itu karena api neraka.
+Stimulus: Sebagian orang menganggap alam hanya untuk dieksploitasi sepuasnya: menambang tanpa reklamasi, membuang limbah tanpa olah, dan menganggap kerusakan alam tidak ada hubungannya dengan Tuhan. Mereka menganggap alam diciptakan sia-sia.
+Pertanyaan: Evaluasi anggapan tersebut berdasarkan QS Shad (38): 27!
+A. Anggapan tersebut adalah iman yang sempurna.
+B. Ayat tersebut tidak berkaitan dengan eksploitasi alam.
+C. Anggapan tersebut benar karena alam memang diciptakan tanpa hikmah.
+D. Anggapan tersebut benar karena alam boleh dieksploitasi tanpa batas.
+E. Anggapan tersebut adalah zann al-ladzīna kafarū (prasangka orang kafir) yang keliru; alam diciptakan dengan hikmah (haqq, bukan bātil), sehingga eksploitasi merusak adalah pengingkaran terhadap hikmah penciptaan dan berakibat kecelakaan.
+KUNCI: E
+Pembahasan: QS Shad 27 menegaskan penciptaan langit, bumi, dan isinya adalah dengan hikmah, bukan bātil (sia-sia). Menganggap alam sia-sia adalah prasangka orang kafir. Konsekuensinya adalah wail (kecelakaan). Menjaga alam adalah pengakuan hikmah.
+--------------------------------------------------------------------------------
+
+SOAL 26 | Bab 3: Menjaga Kelestarian Lingkungan | C4 Analisis
+Dalil (QS Al-Furqan (25): 48–49):
+وَهُوَ الَّذِي أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ ۚ وَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً طَهُورًا ۝ لِّنُحْيِيَ بِهِ بَلْدَةً مَّيْتًا وَنُسْقِيَهُ مِمَّا خَلَقْنَا أَنْعَامًا وَأَنَاسِيَّ كَثِيرًا
+Terjemahan: Dan Dialah yang meniupkan angin sebagai pembawa berita gembira sebelum kedatangan rahmat-Nya (hujan) dan Kami turunkan dari langit air yang menyucikan, agar Kami menghidupkan dengan air itu negeri (tanah) yang mati, dan agar Kami memberi minum dengan air itu sebagian besar dari makhluk Kami, binatang-binatang ternak dan manusia.
+Stimulus: Sebuah kota mengalami krisis air bersih karena hutan gundul dan sungai tercemar. Warga harus mengantre air, sementara di daerah lain air terbuang sia-sia untuk mencuci kendaraan mewah dan menyiram halaman berlebihan.
+Pertanyaan: Analisislah krisis air tersebut berdasarkan QS Al-Furqan (25): 48–49 tentang ciptaan Allah untuk manusia!
+A. Krisis air hanya dialami orang miskin, sehingga orang kaya bebas memboroskan.
+B. Air adalah rahmat Allah (mā'an tahūrā) untuk menghidupkan bumi mati dan memberi minum manusia dan ternak; krisis terjadi karena manusia merusak siklus air (gundul, tercemar) dan memboroskan air, sehingga harus dijaga dan dimanfaatkan dengan bijak.
+C. Ayat tersebut tidak berkaitan dengan air bersih.
+D. Air boleh diboroskan karena jumlahnya tidak terbatas.
+E. Krisis air adalah takdir yang tidak berkaitan dengan perilaku manusia.
+KUNCI: B
+Pembahasan: QS Al-Furqan 48–49 menyebut air yang menyucikan sebagai rahmat untuk menghidupkan bumi dan memberi minum manusia dan ternak. Menjaga hutan dan sungai serta hemat air adalah syukur atas nikmat.
+--------------------------------------------------------------------------------
+
+SOAL 27 | Bab 3: Menjaga Kelestarian Lingkungan | C4 Analisis
+Dalil (QS Al-Baqarah (2): 204–206):
+وَمِنَ النَّاسِ مَن يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا وَيُشْهِدُ اللَّهَ عَلَىٰ مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ ۝ وَإِذَا تَوَلَّىٰ سَعَىٰ فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ ۗ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ
+Terjemahan: Dan di antara manusia ada orang yang ucapannya tentang kehidupan dunia menarik hatimu (pendengarnya), dan ia mempersaksikan Allah atas apa yang ada di hatinya, padahal ia adalah penentang yang paling keras. Dan apabila ia berpaling (dari engkau) atau berkuasa, maka ia berusaha untuk membuat kerusakan di muka bumi dan merusak tanam-tanaman dan binatang ternak, dan Allah tidak menyukai kerusakan.
+Stimulus: Seorang pejabat pandai berbicara tentang cinta lingkungan di panggung, tetapi di belakang layar ia menyetujui penebangan hutan dan pembakaran lahan untuk proyeknya. Ia juga mempersaksikan Allah atas kebohongannya.
+Pertanyaan: Analisislah perilaku pejabat tersebut berdasarkan QS Al-Baqarah (2): 204–206 tentang perilaku munafik terhadap kelestarian alam!
+A. Perilaku tersebut dibenarkan karena proyek lebih penting daripada lingkungan.
+B. Ayat tersebut tidak berkaitan dengan pejabat.
+C. Merusak tanaman tidak termasuk fasād.
+D. Pejabat tersebut adalah aladd al-khisām (penentang keras) yang lisannya manis tetapi hatinya dusta; ia sa'ā fī al-ard li yufsida fīhā wa yuhlika al-harts wa al-nasl (berusaha merusak bumi, tanaman, dan keturunan), dan Allah tidak menyukai fasād.
+E. Pejabat tersebut adalah mukmin sejati karena pandai berbicara.
+KUNCI: D
+Pembahasan: Ayat menggambarkan munafik: ucapan menarik tetapi hati dusta, dan jika berkuasa ia merusak bumi, tanaman (harts), dan keturunan (nasl). Allah tidak menyukai fasād. Merusak tanaman bisa berupa illegal logging, pupuk berlebihan, dan pembakaran hutan.
+--------------------------------------------------------------------------------
+
+SOAL 28 | Bab 3: Menjaga Kelestarian Lingkungan | C4 Analisis
+Dalil (HR Bukhari dan Muslim dari Anas bin Malik):
+مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا أَوْ يَزْرَعُ زَرْعًا فَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ إِلَّا كَانَ لَهُ بِهِ صَدَقَةٌ
+Terjemahan: Tidaklah seorang muslim menanam suatu tanaman atau menabur benih, lalu ada burung, manusia, atau binatang yang memakannya, kecuali itu menjadi sedekah baginya. (HR Bukhari dan Muslim)
+Stimulus: Seorang siswa menanam pohon di halaman sekolah dan merawatnya hingga berbuah. Buahnya dimakan burung, siswa, dan kucing. Ia juga mengajak teman-temannya menanam. Ia bertanya: 'Apakah menanam pohon bisa menjadi ibadah?'
+Pertanyaan: Analisislah kegiatan siswa tersebut berdasarkan HR Bukhari dan Muslim tentang menanam tanaman!
+A. Kegiatan tersebut tidak berpahala karena menanam bukan ibadah.
+B. Kegiatan tersebut hanya berpahala jika buahnya dimakan manusia saja.
+C. Kegiatan tersebut adalah fasād karena menanam pohon merusak tanah.
+D. Kegiatan tersebut adalah sedekah yang berpahala: setiap yang dimakan burung, manusia, atau binatang dari tanaman yang ditanam muslim menjadi sadakah; pohon juga menghasilkan oksigen, buah, dan menjaga air tanah.
+E. Hadis tersebut tidak berlaku untuk siswa.
+KUNCI: D
+Pembahasan: Hadis menegaskan menanam dan menabur benih yang hasilnya dimakan makhluk adalah sedekah. Pohon dewasa menghasilkan oksigen, buah, dan akar penampung air. Melestarikan lingkungan adalah ibadah.
+--------------------------------------------------------------------------------
+
+SOAL 29 | Bab 3: Menjaga Kelestarian Lingkungan | C5 Evaluasi
+Dalil (QS Ar-Rum (30): 41):
+ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
+Terjemahan: Telah tampak kerusakan di darat dan di laut disebabkan karena perbuatan tangan manusia; Allah menghendaki agar mereka merasakan sebagian dari (akibat) perbuatan mereka, agar mereka kembali (ke jalan yang benar).
+Stimulus: Banjir dan longsor di pegunungan semakin sering. Sebagian orang menyalahkan hujan dan takdir, sebagian menyalahkan penebangan liar dan sampah, sebagian lagi menyalahkan orang yang tidak bersalah. Pemerintah mengadakan musyawarah untuk mencari akar masalah.
+Pertanyaan: Evaluasi berbagai pandangan tersebut berdasarkan QS Ar-Rum (30): 41 dan materi kelestarian lingkungan!
+A. Pandangan yang paling tepat adalah menyalahkan orang tidak bersalah agar musibah ada yang disalahkan.
+B. Pandangan yang paling tepat adalah menyalahkan hujan karena hujan adalah penyebab banjir.
+C. Semua pandangan sama-sama benar.
+D. Pandangan yang paling tepat adalah menyalahkan perbuatan manusia (penebangan liar, sampah, pembakaran) sebagai penyebab fasād, karena ayat menegaskan fasād disebabkan tangan manusia; menyalahkan hujan/takdir atau orang tidak bersalah adalah keliru.
+E. Banjir dan longsor tidak berkaitan dengan perilaku manusia.
+KUNCI: D
+Pembahasan: Penyebab banjir dan longsor adalah fasād manusia: gundulnya hutan, sampah, dan pembakaran. Ayat mengajak manusia kembali (yarji'ūn) dengan memperbaiki perilaku. Menyalahkan takdir atau orang tidak bersalah adalah penghindaran tanggung jawab.
+--------------------------------------------------------------------------------
+
+SOAL 30 | Bab 3: Menjaga Kelestarian Lingkungan | C6 Mencipta
+Dalil (QS Al-A'raf (7): 56):
+وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ
+Terjemahan: Dan janganlah kamu membuat kerusakan di muka bumi, sesudah (Allah) memperbaikinya dan berdoalah kepada-Nya dengan rasa takut (tidak akan diterima) dan harapan (akan dikabulkan). Sesungguhnya rahmat Allah amat dekat kepada orang-orang yang berbuat baik.
+Stimulus: Sebagai siswa kelas XII, kamu ingin mengamalkan peduli lingkungan di sekolah dan masyarakat, tetapi waktu dan dana terbatas.
+Pertanyaan: Rancangan tindakan yang paling kreatif dan sesuai dengan QS Al-A'raf (7): 56 adalah…
+A. Membuat bank sampah, gerakan tanam dan rawat pohon, hemat air dan listrik, serta kampanye anti-fasād di media sosial, disertai doa khawfan wa tama'an agar rahmat Allah dekat kepada muhsinīn.
+B. Membakar sampah di halaman sekolah.
+C. Mengabaikan lingkungan karena fokus hanya pada ujian.
+D. Hanya mengeluh tentang kerusakan tanpa tindakan.
+E. Membuang sampah sembarangan dan menebang pohon untuk kesenangan.
+KUNCI: A
+Pembahasan: Larangan fasād setelah islāh menuntut tindakan nyata: bank sampah, tanam pohon, hemat sumber daya, dan kampanye. Doa dengan takut dan harap disertai ihsān mendekatkan rahmat Allah. Ini adalah pengamalan peduli lingkungan.
+--------------------------------------------------------------------------------
+
+SOAL 31 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C4 Analisis
+Dalil (QS Al-Alaq (96): 1–5):
+اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ۝ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ ۝ اقْرَأْ وَرَبُّكَ الْأَكْرَمُ ۝ الَّذِي عَلَّمَ بِالْقَلَمِ ۝ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
+Terjemahan: Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. Dia telah menciptakan manusia dari segumpal darah. Bacalah, dan Tuhanmulah Yang Mahamulia. Yang mengajar (manusia) dengan pena. Dia mengajarkan manusia apa yang tidak diketahuinya.
+Stimulus: Dua siswa: Andi menghabiskan waktu dengan membaca buku, jurnal, dan Al-Qur'an; ia menemukan banyak ilmu dan semakin dekat kepada Allah. Budi menghabiskan waktu dengan gim dan konten tanpa manfaat; ia semakin jauh dari ilmu dan akhlak.
+Pertanyaan: Analisislah perbedaan kedua siswa tersebut berdasarkan QS Al-Alaq (96): 1–5 tentang perintah membaca!
+A. Andi salah karena membaca buku selain Al-Qur'an dilarang.
+B. Iqra' hanya berarti membaca Al-Qur'an, tidak perlu membaca ilmu lain.
+C. Perintah iqra' tidak berkaitan dengan pengembangan ilmu.
+D. Keduanya sama-sama mengamalkan iqra' karena sama-sama melihat layar.
+E. Andi mengamalkan iqra' (bacalah) yang membuka pintu pengetahuan dan menjadikan manusia khalifah; Budi menyia-nyiakan perintah iqra' yang mencakup ayat qur'āniyah dan kauniyah, sehingga jauh dari ilmu.
+KUNCI: E
+Pembahasan: QS Al-Alaq 1–5 adalah wahyu pertama: perintah iqra' dengan nama Tuhan, Tuhan Mahamulia yang mengajar dengan qalam dan mengajarkan apa yang tidak diketahui. Iqra' mencakup ayat tersurat (qur'āniyah) dan tersirat (kauniyah). Budaya membaca menyingkap ilmu dan menempatkan manusia sebagai khalifah.
+--------------------------------------------------------------------------------
+
+SOAL 32 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C4 Analisis
+Dalil (QS Al-Alaq (96): 4–5):
+الَّذِي عَلَّمَ بِالْقَلَمِ ۝ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
+Terjemahan: Yang mengajar (manusia) dengan pena. Dia mengajarkan manusia apa yang tidak diketahuinya.
+Stimulus: Seorang ilmuwan muslim menulis buku, meneliti, dan mengembangkan aplikasi edukasi yang bermanfaat bagi ribuan siswa. Ia juga mengajarkan ilmunya tanpa pamrih. Sebaliknya, ada orang berilmu yang menyembunyikan ilmunya dan tidak mau mengajarkan.
+Pertanyaan: Analisislah kedua orang tersebut berdasarkan QS Al-Alaq (96): 4–5 tentang qalam dan pengajaran!
+A. Keduanya sama-sama mengamalkan ayat karena sama-sama berilmu.
+B. Qalam hanya berarti pena fisik, tidak berkaitan dengan menulis dan meneliti.
+C. Menyembunyikan ilmu adalah sikap yang dianjurkan.
+D. Ayat tersebut tidak berkaitan dengan teknologi.
+E. Ilmuwan tersebut mengamalkan 'allama bi al-qalam (mengajar dengan pena/tulis) dan mengajarkan apa yang tidak diketahui; orang kedua menyia-nyiakan amanah ilmu karena ilmu harus diajarkan dan dikembangkan.
+KUNCI: E
+Pembahasan: Qalam adalah simbol ilmu, tulisan, dan pengajaran. Allah mengajarkan manusia apa yang tidak diketahuinya. Ilmuwan muslim yang menulis, meneliti, dan mengajarkan adalah pewaris Nabi dalam menyebarkan ilmu. Menyembunyikan ilmu adalah khianat.
+--------------------------------------------------------------------------------
+
+SOAL 33 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C4 Analisis
+Dalil (QS Yunus (10): 101):
+قُلِ انظُرُوا مَاذَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَمَا تُغْنِي الْآيَاتُ وَالنُّذُرُ عَن قَوْمٍ لَّا يُؤْمِنُونَ
+Terjemahan: Katakanlah: 'Perhatikanlah apa yang ada di langit dan di bumi!'. Tidaklah bermanfaat tanda-tanda (kebesaran Allah) dan rasul-rasul yang memberi peringatan bagi orang-orang yang tidak beriman.
+Stimulus: Seorang astronom muslim mengamati planet, bintang, dan orbitnya; ia semakin yakin akan kebesaran Allah dan menemukan ilmu astronomi. Seorang lain melihat langit yang sama tetapi tidak pernah merenungkan dan tetap mengingkari Allah.
+Pertanyaan: Analisislah perbedaan kedua orang tersebut berdasarkan QS Yunus (10): 101 tentang perintah memperhatikan gejala alam!
+A. Astronom tersebut mengamalkan unzurū (perhatikanlah) apa yang ada di langit dan bumi sehingga menemukan ayat kauniyah dan beriman; orang kedua mengabaikan perintah tersebut sehingga ayat tidak bermanfaat baginya.
+B. Keduanya sama-sama beriman karena sama-sama melihat langit.
+C. Astronom tersebut salah karena mengamati alam adalah syirik.
+D. Mengamati alam tidak berkaitan dengan ilmu pengetahuan.
+E. Perintah unzurū hanya untuk orang yang tidak beriman.
+KUNCI: A
+Pembahasan: QS Yunus 101 memerintahkan memperhatikan (unzuru) apa yang ada di langit dan bumi. Dalam diri manusia ada tarikan iman dan kufur; Allah menggelar kekuasaan-Nya di alam dan mengutus rasul. Yang hatinya tertutup tidak mendapat manfaat dari ayat dan rasul.
+--------------------------------------------------------------------------------
+
+SOAL 34 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C4 Analisis
+Dalil (QS Al-Baqarah (2): 164):
+إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+Terjemahan: Sesungguhnya pada penciptaan langit dan bumi, pergantian malam dan siang, kapal yang berlayar di laut dengan (muatan) yang bermanfaat bagi manusia, apa yang diturunkan Allah dari langit berupa air, lalu dengan itu dihidupkan-Nya bumi setelah mati (kering), dan Dia tebarkan di dalamnya bermacam-macam binatang, dan perkisaran angin dan awan yang dikendalikan antara langit dan bumi. (Semua itu) sungguh, merupakan tanda-tanda (kebesaran Allah) bagi orang-orang yang mengerti.
+Stimulus: Seorang insinyur perkapalan mempelajari arus laut, angin, dan desain kapal; ia mengembangkan kapal yang aman dan bermanfaat. Seorang lain menganggap kapal hanya kebetulan tanpa hikmah dan tidak mau mempelajari ilmu di baliknya.
+Pertanyaan: Analisislah sikap kedua orang tersebut berdasarkan QS Al-Baqarah (2): 164 tentang fenomena alam sebagai sumber ilmu!
+A. Insinyur tersebut menemukan ayat kauniyah (al-fulk, angin, awan) sebagai inspirasi oseanografi dan perkapalan bagi orang yang mengerti ('aqilūn); orang kedua mengabaikan isyarat ilmu tersebut.
+B. Ayat tersebut tidak berkaitan dengan ilmu perkapalan.
+C. Insinyur tersebut salah karena kapal adalah ciptaan manusia, bukan Allah.
+D. Mempelajari kapal adalah bid'ah yang dilarang.
+E. Keduanya sama-sama mengerti karena sama-sama melihat kapal.
+KUNCI: A
+Pembahasan: QS Al-Baqarah 164 menyebut penciptaan langit-bumi, pergantian malam-siang, kapal berlayar, air hujan, binatang, angin, dan awan sebagai āyāt bagi yang mengerti. Gejala ini menjadi dasar astronomi, oseanografi, perkapalan, hidrologi, dan biologi. Hanya yang berpikir dan merenung yang menemukan isyaratnya.
+--------------------------------------------------------------------------------
+
+SOAL 35 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C4 Analisis
+Dalil (QS Al-Baqarah (2): 164):
+إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+Terjemahan: Sesungguhnya pada penciptaan langit dan bumi, pergantian malam dan siang, kapal yang berlayar di laut dengan (muatan) yang bermanfaat bagi manusia, apa yang diturunkan Allah dari langit berupa air, lalu dengan itu dihidupkan-Nya bumi setelah mati (kering), dan Dia tebarkan di dalamnya bermacam-macam binatang, dan perkisaran angin dan awan yang dikendalikan antara langit dan bumi. (Semua itu) sungguh, merupakan tanda-tanda (kebesaran Allah) bagi orang-orang yang mengerti.
+Stimulus: Seorang peneliti hidrologi mempelajari siklus air: penguapan, awan, hujan, dan aliran sungai; ia mengembangkan sistem pengelolaan air yang mencegah banjir dan kekeringan. Ia juga semakin yakin akan kemahakuasaan Allah.
+Pertanyaan: Analisislah kegiatan peneliti tersebut berdasarkan QS Al-Baqarah (2): 164!
+A. Peneliti tersebut menggali ayat kauniyah tentang air, awan, dan angin sebagai dasar hidrologi dan kebumian, sehingga menemukan ilmu sekaligus keyakinan akan kemahakuasaan Allah.
+B. Peneliti tersebut salah karena air adalah ciptaan manusia.
+C. Ayat tersebut tidak berkaitan dengan siklus air.
+D. Peneliti tersebut menyimpang karena mempelajari siklus air adalah syirik.
+E. Kegiatan tersebut tidak bermanfaat bagi manusia.
+KUNCI: A
+Pembahasan: Siklus air, awan yang dikendalikan, dan penghidupan bumi setelah mati adalah ayat kauniyah yang menjadi inspirasi hidrologi. Orang yang berpikir menemukan isyarat ilmu dan keyakinan. Ilmu dan iman saling menguatkan.
+--------------------------------------------------------------------------------
+
+SOAL 36 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C4 Analisis
+Dalil (QS Al-Hujurat (49): 6):
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُم نَادِمِينَ
+Terjemahan: Wahai orang-orang yang beriman! jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya, agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu.
+Stimulus: Beredar video hoaks di grup WhatsApp yang menuduh sebuah kelompok melakukan kejahatan. Seorang siswa langsung menyebarkan dan menghasut, tanpa memeriksa sumbernya. Akibatnya, terjadi keributan dan nama baik kelompok tersebut tercemar.
+Pertanyaan: Analisislah perilaku siswa tersebut berdasarkan QS Al-Hujurat (49): 6 tentang sikap selektif terhadap informasi!
+A. Perilaku tersebut tidak melanggar ayat karena ayat hanya untuk orang fasik.
+B. Perilaku tersebut dibenarkan karena menyebarkan berita adalah dakwah.
+C. Perilaku tersebut termasuk qatr karena terlalu hemat memeriksa.
+D. Perilaku tersebut melanggar tabayyun (telitilah kebenarannya): menyebarkan berita dari sumber tidak jelas tanpa cek dan ricek menyebabkan mencelakakan kaum karena jahālah (kecerobohan) dan penyesalan.
+E. Ayat tersebut tidak berkaitan dengan media sosial.
+KUNCI: D
+Pembahasan: QS Al-Hujurat 6 memerintahkan tabayyun terhadap berita dari fasik agar tidak mencelakakan kaum karena jahālah dan menyesal. Dalam tradisi ilmu Islam, pembawa ilmu harus memenuhi kompetensi moral dan intelektual serta sanad yang logis. Ilmu yang salah menyebabkan kecelakaan.
+--------------------------------------------------------------------------------
+
+SOAL 37 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C5 Evaluasi
+Dalil (QS Al-Hujurat (49): 6):
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُم نَادِمِينَ
+Terjemahan: Wahai orang-orang yang beriman! jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya, agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu.
+Stimulus: Dua siswa menerima informasi kesehatan dari media sosial. Raka langsung percaya dan menyebarkan tanpa memeriksa. Sinta memeriksa sumbernya (jurnal, dokter), membandingkan dengan literatur, lalu menyebarkan dengan hati-hati dan menambahkan rujukan.
+Pertanyaan: Evaluasi kedua siswa tersebut berdasarkan QS Al-Hujurat (49): 6!
+A. Ayat tersebut tidak mengatur informasi kesehatan.
+B. Sinta lebih sesuai dengan tabayyun: memeriksa kebenaran, menjaga kompetensi moral dan intelektual sumber, serta presisi dalam pengembangan ilmu; Raka melanggar karena menyebarkan tanpa teliti sehingga berisiko mencelakakan.
+C. Sinta salah karena memeriksa informasi adalah prasangka buruk.
+D. Keduanya sama-sama benar karena semua informasi harus disebarkan.
+E. Raka lebih sesuai karena kecepatan menyebar adalah keutamaan.
+KUNCI: B
+Pembahasan: Tabayyun adalah ketelitian dan presisi dalam ilmu pengetahuan dan teknologi. Pembawa ilmu harus memenuhi kompetensi moral dan intelektual serta sanad logis. Menyebarkan tanpa teliti adalah jahālah yang berakibat penyesalan.
+--------------------------------------------------------------------------------
+
+SOAL 38 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C4 Analisis
+Dalil (HR Abu Dawud dari Abu Darda'):
+مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ طَرِيقًا إِلَى الْجَنَّةِ وَإِنَّ الْمَلَائِكَةَ لَتَضَعُ أَجْنِحَتَهَا رِضًا لِطَالِبِ الْعِلْمِ وَإِنَّ طَالِبَ الْعِلْمِ يَسْتَغْفِرُ لَهُ مَنْ فِي السَّمَاءِ وَالْأَرْضِ حَتَّى الْحِيتَانِ فِي الْمَاءِ وَإِنَّ فَضْلَ الْعَالِمِ عَلَى الْعَابِدِ كَفَضْلِ الْقَمَرِ عَلَى سَائِرِ الْكَوَاكِبِ إِنَّ الْعُلَمَاءَ وَرَثَةُ الْأَنْبِيَاءِ إِنَّ الْأَنْبِيَاءَ لَمْ يُوَرِّثُوا دِينَارًا وَلَا دِرْهَمًا إِنَّمَا وَرَّثُوا الْعِلْمَ فَمَنْ أَخَذَهُ أَخَذَ بِحَظٍّ وَافِرٍ
+Terjemahan: Barangsiapa meniti jalan untuk mencari ilmu, Allah akan permudah baginya jalan menuju surga. Para Malaikat akan membentangkan sayapnya karena rida kepada penuntut ilmu. Dan seorang penuntut ilmu akan dimintakan ampunan oleh penghuni langit dan bumi hingga ikan yang ada di air. Sungguh, keutamaan seorang alim dibanding seorang ahli ibadah adalah ibarat bulan purnama atas semua bintang. Sesungguhnya para ulama adalah pewaris para Nabi, dan para Nabi tidak mewariskan dinar maupun dirham, akan tetapi mereka mewariskan ilmu. Barangsiapa mengambilnya, maka ia telah mengambil bagian yang sangat besar. (HR Abu Dawud)
+Stimulus: Seorang siswa berjalan kaki jauh ke perpustakaan setiap hari untuk membaca dan berdiskusi, meskipun lelah. Ia tekun, ikhlas karena Allah, dan ilmunya bermanfaat bagi teman-temannya. Temannya malas belajar dan hanya mengejar nilai dengan mencontek.
+Pertanyaan: Analisislah ketekunan siswa tersebut berdasarkan HR Abu Dawud tentang keutamaan mencari ilmu!
+A. Ketekunan siswa tersebut adalah salaka tarīqan yaltamisu fīhi 'ilman (menempuh jalan mencari ilmu) yang dijanjikan kemudahan jalan ke surga, keridaan malaikat, dan doa penghuni langit-bumi; ilmu yang ikhlas dan bermanfaat adalah warisan Nabi.
+B. Mencari ilmu hanya untuk dunia, bukan untuk surga.
+C. Mencontek lebih utama karena mendapat nilai tinggi.
+D. Hadis tersebut tidak berlaku untuk siswa.
+E. Ketekunan tersebut tidak berpahala karena belajar bukan ibadah.
+KUNCI: A
+Pembahasan: Hadis menegaskan keutamaan pencari ilmu: jalan ke surga dimudahkan, malaikat membentangkan sayap, penghuni langit-bumi dan ikan mendoakan, keutamaan alim atas abid seperti bulan purnama atas bintang, dan ulama adalah pewaris Nabi dengan warisan ilmu (bukan dinar/dirham). Mencari ilmu harus ikhlas karena Allah, bukan duniawi.
+--------------------------------------------------------------------------------
+
+SOAL 39 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C5 Evaluasi
+Dalil (HR Abu Dawud dari Abu Darda'):
+إِنَّ الْعُلَمَاءَ وَرَثَةُ الْأَنْبِيَاءِ إِنَّ الْأَنْبِيَاءَ لَمْ يُوَرِّثُوا دِينَارًا وَلَا دِرْهَمًا إِنَّمَا وَرَّثُوا الْعِلْمَ فَمَنْ أَخَذَهُ أَخَذَ بِحَظٍّ وَافِرٍ
+Terjemahan: Sesungguhnya para ulama adalah pewaris para Nabi, dan para Nabi tidak mewariskan dinar maupun dirham, akan tetapi mereka mewariskan ilmu. Barangsiapa mengambilnya, maka ia telah mengambil bagian yang sangat besar. (HR Abu Dawud)
+Stimulus: Seorang ilmuwan muslim mengembangkan teknologi yang bermanfaat bagi peradaban, tetapi ia juga menjaga akhlak, tidak sombong, dan mengajarkan ilmunya. Seorang lain mengembangkan teknologi untuk merusak dan menipu, serta menyembunyikan ilmunya untuk keuntungan pribadi.
+Pertanyaan: Evaluasi kedua ilmuwan tersebut berdasarkan HR Abu Dawud tentang ulama sebagai pewaris Nabi!
+A. Ilmuwan pertama salah karena mengajarkan ilmu tanpa pamrih.
+B. Ilmuwan pertama adalah pewaris Nabi yang benar: mewariskan ilmu yang bermanfaat bagi peradaban dan pengembangan teknologi dengan akhlak; ilmuwan kedua menyalahi warisan karena ilmu digunakan untuk kerusakan dan disembunyikan.
+C. Teknologi tidak berkaitan dengan warisan Nabi.
+D. Keduanya sama-sama pewaris Nabi karena sama-sama berilmu.
+E. Ilmuwan kedua lebih baik karena menyembunyikan ilmu adalah bijak.
+KUNCI: B
+Pembahasan: Ulama adalah pewaris Nabi dengan warisan ilmu, bukan harta. Ilmu yang bermanfaat bagi peradaban dan diajarkan dengan akhlak adalah warisan yang benar. Ilmu untuk kerusakan dan disembunyikan adalah khianat terhadap warisan.
+--------------------------------------------------------------------------------
+
+SOAL 40 | Bab 4: Mengembangkan Ilmu Pengetahuan dan Teknologi | C5 Evaluasi
+Dalil (QS Al-Alaq (96): 1–5):
+اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ۝ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ ۝ اقْرَأْ وَرَبُّكَ الْأَكْرَمُ ۝ الَّذِي عَلَّمَ بِالْقَلَمِ ۝ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
+Terjemahan: Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. Dia telah menciptakan manusia dari segumpal darah. Bacalah, dan Tuhanmulah Yang Mahamulia. Yang mengajar (manusia) dengan pena. Dia mengajarkan manusia apa yang tidak diketahuinya.
+Stimulus: Teknologi berkembang pesat: kecerdasan buatan, media sosial, dan gawai. Sebagian pengguna menjadi korban kecanduan, hoaks, dan degradasi akhlak. Sebagian lain memanfaatkannya untuk belajar, berdakwah, dan berkarya. Keduanya mengklaim 'mengikuti perkembangan zaman'.
+Pertanyaan: Evaluasi pemanfaatan teknologi tersebut berdasarkan QS Al-Alaq (96): 1–5 dan rangkuman Bab 4!
+A. Teknologi harus ditolak total karena bertentangan dengan Islam.
+B. Pemanfaatan yang sesuai adalah yang dimulai dengan iqra' bi ismi rabbik (membaca dengan nama Tuhan), diimbangi penyiapan mental dan penguatan karakter, sehingga teknologi menjadi sarana ilmu dan ibadah, bukan perbudakan.
+C. Iqra' tidak berkaitan dengan teknologi.
+D. Keduanya sama-sama benar karena mengikuti zaman berarti menuruti teknologi.
+E. Teknologi bebas nilai, sehingga tidak perlu karakter.
+KUNCI: B
+Pembahasan: Islam menghargai ilmu; orang berilmu mulia di sisi Allah. Menuntut ilmu adalah fardu 'ain tanpa batas waktu-ruang. Perkembangan IPTEK harus diimbangi penyiapan mental dan karakter agar pengguna tidak menjadi korban. Ulul albab menjaga harmoni akal dan hati: berdzikir, berpikir, dan takut kepada Allah.
+--------------------------------------------------------------------------------
+
+SOAL 41 | Bab 5: Mendakwahkan Keramahan Islam | C4 Analisis
+Dalil (QS An-Nahl (16): 125):
+ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
+Terjemahan: Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalanNya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk.
+Stimulus: Seorang siswa ingin mengajak temannya yang belum salat. Ia memilih pendekatan bijaksana: memahami latar belakang teman, memilih waktu yang tepat, dan menyampaikan dengan lembut tanpa menghakimi.
+Pertanyaan: Analisislah pendekatan siswa tersebut berdasarkan QS An-Nahl (16): 125 tentang metode al-hikmah!
+A. Pendekatan tersebut adalah dakwah bi al-hikmah (dengan kebijaksanaan): memahami kondisi mad'u, memilih cara tepat, dan menyampaikan dengan etika; Allah yang paling mengetahui siapa sesat dan siapa mendapat petunjuk.
+B. Ayat tersebut tidak mengatur metode dakwah.
+C. Dakwah harus dilakukan dengan kekerasan agar berhasil.
+D. Pendekatan tersebut adalah dakwah yang salah karena terlalu lembut.
+E. Siswa tersebut tidak wajib berdakwah karena bukan ulama.
+KUNCI: A
+Pembahasan: QS An-Nahl 125 memerintahkan dakwah dengan hikmah, mauizah hasanah, dan mujadalah ahsan. Hikmah adalah kebijaksanaan: memahami mad'u, memilih waktu dan cara tepat. Dakwah adalah kewajiban setiap muslim sesuai kemampuan (HR Muslim: ubah dengan tangan, lisan, atau hati).
+--------------------------------------------------------------------------------
+
+SOAL 42 | Bab 5: Mendakwahkan Keramahan Islam | C4 Analisis
+Dalil (QS An-Nahl (16): 125):
+ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
+Terjemahan: Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalanNya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk.
+Stimulus: Seorang ustazah memberikan nasihat kepada siswa yang berpacaran dengan cara yang baik: mendengarkan cerita siswa, memberikan dalil dengan bahasa mudah, dan mendoakan tanpa memaki. Siswa tersebut tersentuh dan berubah.
+Pertanyaan: Analisislah nasihat ustazah tersebut berdasarkan QS An-Nahl (16): 125 tentang metode al-mau'izah al-hasanah!
+A. Ayat tersebut tidak mengatur nasihat.
+B. Ustazah tersebut tidak wajib berdakwah.
+C. Nasihat tersebut salah karena dakwah harus memaki agar jera.
+D. Nasihat tersebut tidak perlu dalil, cukup emosi.
+E. Nasihat tersebut adalah mau'izah hasanah (pengajaran/nasihat yang baik): mendengarkan, berbahasa mudah, beretika, dan mendoakan; metode ini efektif untuk menyentuh hati.
+KUNCI: E
+Pembahasan: Mau'izah hasanah adalah nasihat yang baik: mendengarkan, bahasa mudah, etika, dan doa. Dakwah dengan cara baik saling menghargai dan beretika. Penerimaan adalah urusan Allah.
+--------------------------------------------------------------------------------
+
+SOAL 43 | Bab 5: Mendakwahkan Keramahan Islam | C4 Analisis
+Dalil (QS An-Nahl (16): 125):
+ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
+Terjemahan: Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalanNya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk.
+Stimulus: Dua siswa berdebat tentang isu agama di kelas. Fikri berdebat dengan data, adab, dan menghargai lawan. Dimas berdebat dengan emosi, memotong pembicaraan, dan merendahkan lawan. Keduanya mengklaim sedang 'berjihad dengan lisan'.
+Pertanyaan: Analisislah perbedaan debat keduanya berdasarkan QS An-Nahl (16): 125 tentang metode al-mujādalah!
+A. Dimas lebih benar karena debat harus dengan emosi agar menang.
+B. Debat tidak berkaitan dengan dakwah.
+C. Keduanya sama-sama benar karena debat bebas adab.
+D. Fikri mengamalkan mujādalah bi allatī hiya ahsan (berdebat dengan cara yang baik, saling menghargai dan beretika); Dimas melanggar karena debat dengan emosi dan merendahkan lawan.
+E. Ayat tersebut melarang debat sama sekali.
+KUNCI: D
+Pembahasan: Mujādalah adalah perdebatan dengan cara yang baik, saling menghargai dan beretika. Dakwah dengan debat yang buruk merusak pesan. Allah yang mengetahui siapa sesat dan siapa mendapat petunjuk.
+--------------------------------------------------------------------------------
+
+SOAL 44 | Bab 5: Mendakwahkan Keramahan Islam | C4 Analisis
+Dalil (QS Asy-Syu'ara (26): 214–216):
+وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ ۝ وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ ۝ فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِّمَّا تَعْمَلُونَ
+Terjemahan: Dan berilah peringatan kepada kerabat-kerabatmu (Muhammad) yang terdekat. Dan rendahkanlah dirimu terhadap orang-orang yang beriman yang mengikutimu. Kemudian jika mereka mendurhakaimu maka katakanlah (Muhammad), 'Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu kerjakan'.
+Stimulus: Seorang siswa baru masuk Islam di lingkungan yang belum kondusif untuk dakwah terbuka. Ia memulai dakwah dari keluarga terdekat: orang tua, saudara, dan tetangga dekat, dengan risiko penolakan kecil tetapi berdampak besar kemudian hari.
+Pertanyaan: Analisislah strategi siswa tersebut berdasarkan QS Asy-Syu'ara (26): 214–216 tentang fase dakwah sembunyi-sembunyi!
+A. Strategi tersebut salah karena dakwah harus langsung terbuka.
+B. Ayat tersebut tidak berkaitan dengan dakwah.
+C. Siswa tersebut tidak wajib berdakwah.
+D. Dakwah kepada keluarga tidak perlu karena keluarga pasti menolak.
+E. Strategi tersebut sesuai dengan fase sirriyah: mendakwahi kerabat terdekat ('asyīrataka al-aqrabīn) secara sembunyi-sembunyi karena kondisi belum memungkinkan dakwah terbuka, seperti Rasulullah yang mendakwahi Khadijah, Abu Bakar, dan Ali.
+KUNCI: E
+Pembahasan: QS Asy-Syu'ara 214–216 menjelaskan tahapan dakwah sesuai kondisi: fase sembunyi-sembunyi kepada kerabat terdekat karena belum memungkinkan terbuka. Generasi pertama (as-sābiqūna al-awwalūn) masuk Islam dan menjadi fondasi perkembangan Islam. Keberhasilan dakwah bukan diukur dengan banyaknya pengikut, tetapi pesan tetap disampaikan.
+--------------------------------------------------------------------------------
+
+SOAL 45 | Bab 5: Mendakwahkan Keramahan Islam | C4 Analisis
+Dalil (QS Asy-Syu'ara (26): 215):
+وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ
+Terjemahan: Dan rendahkanlah dirimu terhadap orang-orang yang beriman yang mengikutimu.
+Stimulus: Seorang ketua kelompok belajar yang sudah diikuti banyak teman menjadi sombong, meremehkan anggota yang lambat, dan enggan mendengarkan. Kelompoknya pecah. Sebaliknya, ketua lain rendah hati, mendengarkan, dan membimbing dengan lembut; kelompoknya solid.
+Pertanyaan: Analisislah kepemimpinan kedua ketua tersebut berdasarkan QS Asy-Syu'ara (26): 215!
+A. Tawadhu adalah kelemahan yang harus ditinggalkan.
+B. Ketua kedua mengamalkan ikhfid janāhaka (rendahkanlah dirimu) kepada pengikut yang beriman: tawadhu, mendengarkan, dan membimbing; ketua pertama melanggar karena sombong dan meremehkan.
+C. Keduanya sama-sama benar karena kepemimpinan bebas akhlak.
+D. Ayat tersebut tidak berkaitan dengan kepemimpinan.
+E. Ketua pertama lebih benar karena pemimpin harus sombong agar ditakuti.
+KUNCI: B
+Pembahasan: QS Asy-Syu'ara 215 memerintahkan merendahkan diri (tawadhu) kepada pengikut yang beriman. Dakwah kepada keluarga dan pengikut harus dengan tawadhu. Kesombongan memecah, tawadhu menyatukan.
+--------------------------------------------------------------------------------
+
+SOAL 46 | Bab 5: Mendakwahkan Keramahan Islam | C4 Analisis
+Dalil (QS Al-Hijr (15): 94–96):
+فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ ۝ إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ ۝ الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۚ فَسَوْفَ يَعْلَمُونَ
+Terjemahan: Maka sampaikanlah (Muhammad) secara terang-terangan segala apa yang diperintahkan (kepadamu) dan berpalinglah dari orang yang musyrik. Sesungguhnya Kami memelihara kamu dari (kejahatan) orang yang memperolok-olokkan (engkau). (yaitu) orang-orang yang menganggap adanya tuhan selain Allah; mereka kelak akan mengetahui (akibatnya).
+Stimulus: Setelah bertahun-tahun berdakwah diam-diam dan umat Islam sudah kuat, seorang dai mulai menyampaikan ajaran Islam secara terbuka di media sosial dan majelis umum, meskipun ada ancaman dan ejekan dari pihak yang tidak suka.
+Pertanyaan: Analisislah tindakan dai tersebut berdasarkan QS Al-Hijr (15): 94–96 tentang fase dakwah terang-terangan!
+A. Tindakan tersebut salah karena dakwah harus selalu sembunyi-sembunyi.
+B. Tindakan tersebut sesuai dengan fase jahriyah: fasda' bimā tu'mar (sampaikanlah secara terang-terangan) setelah eksistensi umat memadai, dengan berpaling dari musyrik dan yakin Allah memelihara dari ejekan.
+C. Dai tersebut harus berhenti karena ancaman adalah tanda dakwah gagal.
+D. Ayat tersebut tidak berkaitan dengan dakwah terbuka.
+E. Dakwah terbuka tidak perlu karena sudah cukup dakwah diam-diam.
+KUNCI: B
+Pembahasan: QS Al-Hijr 94–96 memerintahkan dakwah terang-terangan setelah fase sembunyi-sembunyi cukup lama dan eksistensi umat memadai. Allah menjamin keselamatan dai dari ejekan (innā kafaynāka al-mustahzi'īn). Tugas dai hanya menyampaikan; penerimaan urusan Allah. Terbukti dengan masuknya Khalid bin Walid dan Amr bin Ash.
+--------------------------------------------------------------------------------
+
+SOAL 47 | Bab 5: Mendakwahkan Keramahan Islam | C5 Evaluasi
+Dalil (QS Al-Hijr (15): 95):
+إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ
+Terjemahan: Sesungguhnya Kami memelihara kamu dari (kejahatan) orang yang memperolok-olokkan (engkau).
+Stimulus: Seorang siswa berdakwah di sekolah diejek dan diremehkan oleh teman-temannya. Ia berhenti berdakwah dan berkata, 'Dakwah tidak ada gunanya, hanya mengundang ejekan.' Temannya melanjutkan dakwah dengan sabar dan istiqamah.
+Pertanyaan: Evaluasi sikap kedua siswa tersebut berdasarkan QS Al-Hijr (15): 95!
+A. Ejakan adalah tanda dakwah harus dihentikan.
+B. Ayat tersebut tidak menjamin keselamatan dai.
+C. Teman yang melanjutkan lebih sesuai dengan ayat: Allah memelihara dai dari ejekan (kafaynāka al-mustahzi'īn), sehingga ejekan tidak boleh menghentikan dakwah; siswa yang berhenti menyerah pada ejekan.
+D. Keduanya sama-sama benar karena dakwah bebas dihentikan.
+E. Siswa yang berhenti lebih benar karena menghindari ejekan adalah bijak.
+KUNCI: C
+Pembahasan: QS Al-Hijr 95 menegaskan Allah memelihara dai dari orang yang memperolok-olokkan. Dakwah harus istiqamah meskipun ada respon negatif, penolakan, dan ancaman. Jaminan Allah adalah penguat.
+--------------------------------------------------------------------------------
+
+SOAL 48 | Bab 5: Mendakwahkan Keramahan Islam | C4 Analisis
+Dalil (HR Muslim dari Abu Hurairah):
+مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الْأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهُ لَا يَنْقُصُ ذَلِكَ مِنْ أُجُورِهِمْ شَيْئًا وَمَنْ دَعَا إِلَى ضَلَالَةٍ كَانَ عَلَيْهِ مِنَ الْإِثْمِ مِثْلُ آثَامِ مَنْ تَبِعَهُ لَا يَنْقُصُ ذَلِكَ مِنْ آثَامِهِمْ شَيْئًا
+Terjemahan: Barangsiapa yang mengajak kepada petunjuk, maka baginya pahala seperti pahala orang-orang yang mengikutinya tanpa mengurangi pahala mereka sedikit pun. Dan barangsiapa yang mengajak kepada kesesatan, maka ia mendapat dosa seperti dosa orang-orang yang mengikutinya, tanpa mengurangi dosa mereka sedikit pun. (HR Muslim)
+Stimulus: Seorang siswa mengajak teman-temannya salat berjamaah dan rajin belajar. Lima temannya mengikuti dan menjadi rajin. Ia juga mengajak temannya yang lain untuk tawuran, tetapi temannya menolak.
+Pertanyaan: Analisislah ajakan siswa tersebut berdasarkan HR Muslim tentang keutamaan berdakwah!
+A. Dakwah tidak memberikan pahala yang mengalir.
+B. Ajakan kepada kebaikan tidak berpahala karena pahala hanya untuk yang beramal.
+C. Ajakan kepada salat dan belajar adalah da'ā ilā hudan (mengajak kepada petunjuk) yang berpahala seperti pahala pengikutnya tanpa mengurangi pahala mereka; ajakan kepada tawuran adalah da'ā ilā dalālah (mengajak kepada kesesatan) yang berdosa seperti dosa pengikutnya.
+D. Ajakan kepada keburukan tidak berdosa karena yang beramal adalah pengikutnya.
+E. Hadis tersebut tidak berkaitan dengan siswa.
+KUNCI: C
+Pembahasan: Hadis menegaskan dakwah adalah 'peternakan' pahala: pengajak kebaikan mendapat pahala seperti pengikutnya tanpa mengurangi pahala mereka; pengajak keburukan mendapat dosa seperti pengikutnya. Pahala mengalir hingga hari kiamat.
+--------------------------------------------------------------------------------
+
+SOAL 49 | Bab 5: Mendakwahkan Keramahan Islam | C5 Evaluasi
+Dalil (HR Muslim dari Abu Hurairah):
+مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الْأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهُ لَا يَنْقُصُ ذَلِكَ مِنْ أُجُورِهِمْ شَيْئًا وَمَنْ دَعَا إِلَى ضَلَالَةٍ كَانَ عَلَيْهِ مِنَ الْإِثْمِ مِثْلُ آثَامِ مَنْ تَبِعَهُ لَا يَنْقُصُ ذَلِكَ مِنْ آثَامِهِمْ شَيْئًا
+Terjemahan: Barangsiapa yang mengajak kepada petunjuk, maka baginya pahala seperti pahala orang-orang yang mengikutinya tanpa mengurangi pahala mereka sedikit pun. Dan barangsiapa yang mengajak kepada kesesatan, maka ia mendapat dosa seperti dosa orang-orang yang mengikutinya, tanpa mengurangi dosa mereka sedikit pun. (HR Muslim)
+Stimulus: Seorang influencer menyebarkan konten maksiat dan hoaks yang diikuti ribuan remaja. Ia berdalih 'saya hanya bercanda, yang berbuat adalah pengikutnya'. Seorang influencer lain menyebarkan konten edukasi dan dakwah yang diikuti banyak remaja.
+Pertanyaan: Evaluasi kedua influencer tersebut berdasarkan HR Muslim!
+A. Influencer pertama berdosa seperti dosa pengikutnya karena da'ā ilā dalālah (mengajak kepada kesesatan) di media sosial; influencer kedua berpahala seperti pahala pengikutnya karena da'ā ilā hudan. Alasan 'bercanda' tidak menghapus dosa.
+B. Influencer kedua tidak berpahala karena dakwah di media sosial tidak sah.
+C. Keduanya sama-sama tidak bertanggung jawab.
+D. Influencer pertama tidak berdosa karena hanya bercanda.
+E. Hadis tersebut tidak berlaku untuk media sosial.
+KUNCI: A
+Pembahasan: Hadis berlaku untuk semua ajakan, termasuk media sosial. Pengajak kesesatan mendapat dosa seperti pengikutnya; pengajak petunjuk mendapat pahala seperti pengikutnya. Dakwah digital adalah ladang pahala dan dosa yang besar.
+--------------------------------------------------------------------------------
+
+SOAL 50 | Bab 5: Mendakwahkan Keramahan Islam | C6 Mencipta
+Dalil (QS An-Nahl (16): 125):
+ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
+Terjemahan: Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalanNya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk.
+Stimulus: Sebagai siswa kelas XII di era informasi, kamu ingin berdakwah secara lisan dan tulisan melalui media digital, tetapi harus menghadapi hoaks, ujaran kebencian, dan perbedaan pemahaman.
+Pertanyaan: Rancangan dakwah digital yang paling sesuai dengan QS An-Nahl (16): 125 dan materi Bab 5 adalah…
+A. Dakwah digital dengan makian, hoaks, dan ujaran kebencian agar viral.
+B. Dakwah digital dengan menyembunyikan ajaran Islam dan tidak menyampaikan kebaikan.
+C. Dakwah digital dengan hikmah (memahami audiens dan memilih waktu/cara tepat), mau'izah hasanah (bahasa mudah, etika, dan doa), dan mujādalah ahsan (debat santun dengan data), dimulai dari diri dan keluarga, tanpa menunggu menjadi ulama, serta istiqamah meskipun diejek.
+D. Dakwah digital dengan berhenti saat diejek dan tidak istiqamah.
+E. Dakwah digital hanya untuk ulama, siswa tidak wajib berdakwah.
+KUNCI: C
+Pembahasan: Dakwah adalah mengajak kepada jalan Allah dan kebaikan serta meninggalkan kemungkaran; tugas paling mulia para Nabi dan Rasul. Tiga metode: hikmah, mau'izah hasanah, mujādalah. Dakwah dimulai dari diri dan keluarga terdekat. Tidak harus menunggu menjadi ulama; setiap muslim wajib sesuai kemampuan. Dakwah digital harus dengan keramahan Islam.
+--------------------------------------------------------------------------------
+
