@@ -39,9 +39,9 @@ function buatGoogleFormLatihan() {
     .setHelpText("Pilih kelas Anda.")
     .setRequired(true);
   kelasItem.setChoiceValues([
-    "XII-1", "XII-2", "XII-3", "XII-4", "XII-5", "XII-6",
-    "XII-IPA-1", "XII-IPA-2", "XII-IPS-1", "XII-IPS-2",
-    "XII-AGAMA-1", "XII-AGAMA-2", "Lainnya"
+    "XII-1", "XII-2", "XII-3", "XII-4", "XII-5",
+    "XII-6", "XII-7", "XII-8", "XII-9", "XII-10",
+    "XII-11", "XII-12", "XII-13", "XII-14", "XII-15"
   ]);
 
   var absenValidation = FormApp.createTextValidation()

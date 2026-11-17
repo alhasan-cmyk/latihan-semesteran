@@ -77,7 +77,7 @@ Di editor form, pastikan pertanyaan pertama adalah:
 - Deskripsi: `Contoh: XII-1`
 - Aktifkan **Wajib**.
 
-> Jika ingin pilihan tetap, ganti ke **Pilihan ganda (Multiple choice)** dengan opsi `XII-1, XII-2, XII-3, XII-4, XII-5, XII-6, XII-IPA-1, XII-IPA-2, XII-IPS-1, XII-IPS-2, XII-AGAMA-1, XII-AGAMA-2, Lainnya`.
+> Jika ingin pilihan tetap, ganti ke **Pilihan ganda (Multiple choice)** dengan opsi `XII-1` sampai `XII-15` (`XII-1, XII-2, ..., XII-15`).
 
 ### Pertanyaan 3 — Nomor Absen
 - Tambah pertanyaan **Jawaban singkat**.
